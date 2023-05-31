@@ -1,0 +1,1347 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="[03] Antena 3">
+    <display-name lang="es">ANTENA 3</display-name>
+    <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/A3.png" />
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <programme start="20230531060000 +0200" stop="20230531061500 +0200" channel="[03] Antena 3">
+    <title lang="es">Remescar cosmética al instante</title>
+    <desc lang="es">Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P2188763" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230531061500 +0200" stop="20230531085500 +0200" channel="[03] Antena 3">
+    <title lang="es">Las noticias de la mañana</title>
+    <desc lang="es">Primer noticiario de la jornada, en el que se ofrece un avance de las principales noticias del día. Manu Sánchez, junto a Marina Monzón y Noor Ben Yessef, conducen este informativo matinal. Con la información del tiempo a cargo de Mercedes Martín.(n)</desc>
+    <date>2014</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758281" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230531085500 +0200" stop="20230531132000 +0200" channel="[03] Antena 3">
+    <title lang="es">Espejo Público</title>
+    <desc lang="es">Magacín matinal presentado por Susana Griso cuyo eje central es la actualidad nacional e internacional más inmediata. El programa incluye reportajes, entrevistas, tertulias y debates, así como secciones sobre gastronomía, moda, belleza, salud y crónica de sucesos.(n)</desc>
+    <credits>
+      <director>Julián Nieto</director>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039151" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S17 E4021</episode-num>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+  </programme>
+  <programme start="20230531132000 +0200" stop="20230531134500 +0200" channel="[03] Antena 3">
+    <title lang="es">Cocina abierta de Karlos Arguiñano</title>
+    <desc lang="es">Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios en este programa de Antena 3. El cocinero vasco hace las delicias de los aficionados a los fogones ofreciendo a diario ideas para realizar suculentos platos.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Cocina</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039153" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S12 E2564</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20230531134500 +0200" stop="20230531150000 +0200" channel="[03] Antena 3">
+    <title lang="es">La ruleta de la suerte</title>
+    <desc lang="es">Clásico concurso en el que tres participantes deben adivinar las letras correctas que forman una palabra o una frase con la ayuda de una ruleta que cuenta con 24 opciones. La presentación del programa corre a cargo de Jorge Fernández con la colaboración de Laura Moure.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039155" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E3995</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230531150000 +0200" stop="20230531154500 +0200" channel="[03] Antena 3">
+    <title lang="es">Antena 3 Noticias 1</title>
+    <desc lang="es">Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe.(n)</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758302" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230531154500 +0200" stop="20230531160000 +0200" channel="[03] Antena 3">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional.(n)</desc>
+    <date>2013</date>
+    <category lang="es">Información</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105271" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230531160200 +0200" stop="20230531163000 +0200" channel="[03] Antena 3">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+    <desc lang="es">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.(n)</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P997438" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230531163000 +0200" stop="20230531173000 +0200" channel="[03] Antena 3">
+    <title lang="es">Amar es para siempre</title>
+    <desc lang="es">Inés y Mauro son dos jóvenes abogados que pese a no tener muy buena relación cuando se conocen se van enamorando. Ella ve en él a un chico arrogante, pero ese espíritu alegre y alocado hará que entre ellos surja algo más fuerte. Su historia de amor se enmarca en la España de los años 60, una época de reconstrucción, cambios y crecimiento.(n)</desc>
+    <credits>
+      <actor>Manuel Baqueiro</actor>
+      <actor>Itziar Miranda</actor>
+      <actor>José Antonio Sayagués</actor>
+      <actor>Marc Clotet</actor>
+      <actor>Bárbara Goenaga</actor>
+      <actor>Rocío Muñoz</actor>
+      <actor>Nadia de Santiago</actor>
+      <actor>Javier Collado</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039157" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S11 E2632</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+  </programme>
+  <programme start="20230531173000 +0200" stop="20230531190000 +0200" channel="[03] Antena 3">
+    <title lang="es">Pecado original</title>
+    <desc lang="es">Una historia de ambición, lujo, poder y amor con tres mujeres protagonistas muy distintas entre sí y de métodos opuestos. Las tres comparten un mismo objetivo: luchar por conseguir aquello que quieren.(n)</desc>
+    <credits>
+      <actor>Eda Ece</actor>
+      <actor>Nesrin Cavadzade</actor>
+      <actor>Biran Damla Yilmaz</actor>
+      <actor>Sevval Sam</actor>
+      <actor>Sevda Erginci</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3044836" />
+    <country lang="es">Turquía</country>
+    <episode-num system="onscreen">S1 E72</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230531190000 +0200" stop="20230531200000 +0200" channel="[03] Antena 3">
+    <title lang="es">Y ahora, Sonsoles</title>
+    <desc lang="es">Espacio dedicado a los asuntos de más actualidad con los mejores colaboradores e invitados. Es un programa presentado por la periodista Sonsoles Ónega.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039159" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E155</episode-num>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+  </programme>
+  <programme start="20230531200000 +0200" stop="20230531210000 +0200" channel="[03] Antena 3">
+    <title lang="es">Pasapalabra</title>
+    <desc lang="es">Concurso presentado por Roberto Leal, que se basa en las habilidades con el lenguaje. Durante los 30 minutos que dura el espacio, los concursantes, ayudados por famosos, tendrán que superar pruebas diferentes que giran alrededor del alfabeto y las palabras.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039161" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S3 E779</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20230531210000 +0200" stop="20230531213000 +0200" channel="[03] Antena 3">
+    <title lang="es">Antena 3 Noticias 2</title>
+    <desc lang="es">Informativo nocturno, emitido de lunes a viernes, que recoge las noticias que se han producido a lo largo de la jornada de la mano de Vicente Vallés y Esther Vaquero. El espacio aborda la información de carácter general, que va sucedida de la información deportiva.(n)</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758329" />
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230531213500 +0200" stop="20230531214500 +0200" channel="[03] Antena 3">
+    <title lang="es">La previsión de las 9</title>
+    <desc lang="es">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.(n)</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105306" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230531214500 +0200" stop="20230531224500 +0200" channel="[03] Antena 3">
+    <title lang="es">El hormiguero 3.0</title>
+    <sub-title lang="es">Frank Cuesta</sub-title>
+    <desc lang="es">Pablo Motos recibe la visita de Frank Cuesta, el reconocido herpetólogo y aventurero, para hablar de su influencia como creador de contenido.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039163" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S17 E1864</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230531224500 +0200" stop="20230601001000 +0200" channel="[03] Antena 3">
+    <title lang="es">Mask Singer: adivina quién canta</title>
+    <sub-title lang="es">Gala 4</sub-title>
+    <desc lang="es">En esta gala, dos nuevas máscaras se suman al casting para intentar ganar el programa en igualdad de condiciones: Hada y Bebé. Además, el programa también contará con dos desenmascaramientos.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039165" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230601001000 +0200" stop="20230601013500 +0200" channel="[03] Antena 3">
+    <title lang="es">Mask Singer: Detrás de la máscara</title>
+    <desc lang="es">Espacio que ayuda a los espectadores a conocer en profundidad todos los momentos del programa.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3044066" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20230601013500 +0200" stop="20230601030000 +0200" channel="[03] Antena 3">
+    <title lang="es">Mask Singer: adivina quién canta</title>
+    <sub-title lang="es">Gala 4</sub-title>
+    <desc lang="es">Dos desenmascaramientos y Ana Obregón como investigadora invitada en esta cuarta gala. Cocodrilo, Erizo, Ángel y Cactus regresan al programa para volver a cantar frente a los investigadores. Al final de la noche sólo quedarán dos salvadas.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1902510" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230601030000 +0200" stop="20230601034500 +0200" channel="[03] Antena 3">
+    <title lang="es">Live casino</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Concurso nocturno para que los espectadores puedan jugar como si estuvieran en el casino desde casa. La ruleta, el blackjack o el punto y banca son algunos de los juegos disponibles.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1531672" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230601034500 +0200" stop="20230601043000 +0200" channel="[03] Antena 3">
+    <title lang="es">El bar de todoslots</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Espacio nocturno dedicado a las máquinas tragaperras online TodoSlots, que llevan la experiencia de las máquinas del bar a tu casa.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P2140130" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+  </programme>
+  <programme start="20230601043000 +0200" stop="20230601053000 +0200" channel="[03] Antena 3">
+    <title lang="es">Galería del coleccionista</title>
+    <desc lang="es">Espacio comercial.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1254041" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230601053000 +0200" stop="20230601060000 +0200" channel="[03] Antena 3">
+    <title lang="es">Minutos musicales</title>
+    <desc lang="es">Emisión de videoclips y piezas musicales.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Música</category>
+    <category lang="es">Videoclips</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P661411" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230601060000 +0200" stop="20230601061500 +0200" channel="[03] Antena 3">
+    <title lang="es">Remescar cosmética al instante</title>
+    <desc lang="es">Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P2188763" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230601061500 +0200" stop="20230601085500 +0200" channel="[03] Antena 3">
+    <title lang="es">Las noticias de la mañana</title>
+    <desc lang="es">Primer noticiario de la jornada, en el que se ofrece un avance de las principales noticias del día. Manu Sánchez, junto a Marina Monzón y Noor Ben Yessef, conducen este informativo matinal. Con la información del tiempo a cargo de Mercedes Martín.(n)</desc>
+    <date>2014</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758281" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230601085500 +0200" stop="20230601132000 +0200" channel="[03] Antena 3">
+    <title lang="es">Espejo Público</title>
+    <desc lang="es">Magacín matinal presentado por Susana Griso cuyo eje central es la actualidad nacional e internacional más inmediata. El programa incluye reportajes, entrevistas, tertulias y debates, así como secciones sobre gastronomía, moda, belleza, salud y crónica de sucesos.(n)</desc>
+    <credits>
+      <director>Julián Nieto</director>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039167" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S17 E4022</episode-num>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+  </programme>
+  <programme start="20230601132000 +0200" stop="20230601134500 +0200" channel="[03] Antena 3">
+    <title lang="es">Cocina abierta de Karlos Arguiñano</title>
+    <desc lang="es">Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios en este programa de Antena 3. El cocinero vasco hace las delicias de los aficionados a los fogones ofreciendo a diario ideas para realizar suculentos platos.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Cocina</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039169" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S12 E2565</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20230601134500 +0200" stop="20230601150000 +0200" channel="[03] Antena 3">
+    <title lang="es">La ruleta de la suerte</title>
+    <desc lang="es">Clásico concurso en el que tres participantes deben adivinar las letras correctas que forman una palabra o una frase con la ayuda de una ruleta que cuenta con 24 opciones. La presentación del programa corre a cargo de Jorge Fernández con la colaboración de Laura Moure.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039171" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E3996</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20230601150000 +0200" stop="20230601154500 +0200" channel="[03] Antena 3">
+    <title lang="es">Antena 3 Noticias 1</title>
+    <desc lang="es">Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe.(n)</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758302" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230601154500 +0200" stop="20230601160000 +0200" channel="[03] Antena 3">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional.(n)</desc>
+    <date>2013</date>
+    <category lang="es">Información</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105271" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230601160200 +0200" stop="20230601163000 +0200" channel="[03] Antena 3">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+    <desc lang="es">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.(n)</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P997438" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230601163000 +0200" stop="20230601173000 +0200" channel="[03] Antena 3">
+    <title lang="es">Amar es para siempre</title>
+    <desc lang="es">Inés y Mauro son dos jóvenes abogados que pese a no tener muy buena relación cuando se conocen se van enamorando. Ella ve en él a un chico arrogante, pero ese espíritu alegre y alocado hará que entre ellos surja algo más fuerte. Su historia de amor se enmarca en la España de los años 60, una época de reconstrucción, cambios y crecimiento.(n)</desc>
+    <credits>
+      <actor>Manuel Baqueiro</actor>
+      <actor>Itziar Miranda</actor>
+      <actor>José Antonio Sayagués</actor>
+      <actor>Marc Clotet</actor>
+      <actor>Bárbara Goenaga</actor>
+      <actor>Rocío Muñoz</actor>
+      <actor>Nadia de Santiago</actor>
+      <actor>Javier Collado</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039173" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S11 E2633</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+  </programme>
+  <programme start="20230601173000 +0200" stop="20230601190000 +0200" channel="[03] Antena 3">
+    <title lang="es">Pecado original</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Una historia de ambición, lujo, poder y amor con tres mujeres protagonistas muy distintas entre sí y de métodos opuestos. Las tres comparten un mismo objetivo: luchar por conseguir aquello que quieren.(n)</desc>
+    <credits>
+      <actor>Eda Ece</actor>
+      <actor>Nesrin Cavadzade</actor>
+      <actor>Biran Damla Yilmaz</actor>
+      <actor>Sevval Sam</actor>
+      <actor>Sevda Erginci</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P2178878" />
+    <country lang="es">Turquía</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230601190000 +0200" stop="20230601200000 +0200" channel="[03] Antena 3">
+    <title lang="es">Y ahora, Sonsoles</title>
+    <desc lang="es">Espacio dedicado a los asuntos de más actualidad con los mejores colaboradores e invitados. Es un programa presentado por la periodista Sonsoles Ónega.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039175" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E156</episode-num>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+  </programme>
+  <programme start="20230601200000 +0200" stop="20230601210000 +0200" channel="[03] Antena 3">
+    <title lang="es">Pasapalabra</title>
+    <desc lang="es">Concurso presentado por Roberto Leal, que se basa en las habilidades con el lenguaje. Durante los 30 minutos que dura el espacio, los concursantes, ayudados por famosos, tendrán que superar pruebas diferentes que giran alrededor del alfabeto y las palabras.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039177" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S3 E780</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20230601210000 +0200" stop="20230601213000 +0200" channel="[03] Antena 3">
+    <title lang="es">Antena 3 Noticias 2</title>
+    <desc lang="es">Informativo nocturno, emitido de lunes a viernes, que recoge las noticias que se han producido a lo largo de la jornada de la mano de Vicente Vallés y Esther Vaquero. El espacio aborda la información de carácter general, que va sucedida de la información deportiva.(n)</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758329" />
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230601213500 +0200" stop="20230601214500 +0200" channel="[03] Antena 3">
+    <title lang="es">La previsión de las 9</title>
+    <desc lang="es">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.(n)</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105306" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230601214500 +0200" stop="20230601224500 +0200" channel="[03] Antena 3">
+    <title lang="es">El hormiguero 3.0</title>
+    <desc lang="es">Pablo Motos capitanea un equipo de desenfadados personajes dispuestos a diseccionar cada día la actualidad en tono jocoso. El programa incluye experimentos científicos, actuaciones musicales y entrevistas con los más destacados personajes del mundo del espectáculo.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039179" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S17 E1865</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+  </programme>
+  <programme start="20230601224500 +0200" stop="20230601235300 +0200" channel="[03] Antena 3">
+    <title lang="es">Heridas</title>
+    <desc lang="es">Manuela, a sus 28 años se dedica a estudiar los humedales andaluces y las aves que los habitan. Cerca vive Alba, hija de Yolanda, una bailarina que trabaja de noche y descansa de día. Cuando Manuela encuentra a Alba comenzará un viaje en el que se enfrentará a su pasado.(n)</desc>
+    <credits>
+      <actor>Sonia Almarcha</actor>
+      <actor>Pau Durà</actor>
+      <actor>Adriana Ugarte</actor>
+      <actor>María León</actor>
+      <actor>Elisabet Gelabert</actor>
+      <actor>Iván Marcos</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039127" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+  </programme>
+  <programme start="20230601235300 +0200" stop="20230602010000 +0200" channel="[03] Antena 3">
+    <title lang="es">Heridas</title>
+    <desc lang="es">Flashback, año 1998. Rocío juega con la pequeña Manuela, ruedan por el césped y juegan. Felicidad. Pero ese sentimiento se rompe cuando descubre que su madre se ha marchado de su lado y ya no le empuja por detrás del columpio, le acaba de abandonar.(n)</desc>
+    <credits>
+      <actor>Sonia Almarcha</actor>
+      <actor>Pau Durà</actor>
+      <actor>Adriana Ugarte</actor>
+      <actor>María León</actor>
+      <actor>Elisabet Gelabert</actor>
+      <actor>Iván Marcos</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3025690" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230602010000 +0200" stop="20230602023000 +0200" channel="[03] Antena 3">
+    <title lang="es">Error médico</title>
+    <title lang="en">Malpractice</title>
+    <desc lang="es">Un médico y su equipo, son expulsados del hospital por una supuesta negligencia médica. Tiempo después se lleva a cabo una investigación por la extraña muerte de un paciente en ese mismo hospital.(n)</desc>
+    <credits>
+      <director>Micky Dolenz</director>
+      <actor>Stephanie Zimbalist</actor>
+      <actor>Markus Flanagan</actor>
+      <actor>John McConnell</actor>
+      <actor>Gabrielle Carteris</actor>
+      <actor>Michael Arata</actor>
+      <actor>Ritchie Montgomery</actor>
+      <writer>Stuart Alexander</writer>
+    </credits>
+    <date>2001</date>
+    <category lang="es">Telefilme</category>
+    <category lang="es">Suspense</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P569033" />
+    <country lang="es">EE.UU</country>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230602023000 +0200" stop="20230602031500 +0200" channel="[03] Antena 3">
+    <title lang="es">Live casino</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Concurso nocturno para que los espectadores puedan jugar como si estuvieran en el casino desde casa. La ruleta, el blackjack o el punto y banca son algunos de los juegos disponibles.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1531672" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230602031500 +0200" stop="20230602040000 +0200" channel="[03] Antena 3">
+    <title lang="es">El bar de todoslots</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Espacio nocturno dedicado a las máquinas tragaperras online TodoSlots, que llevan la experiencia de las máquinas del bar a tu casa.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Deportes</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P2140130" />
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+  </programme>
+  <programme start="20230602040000 +0200" stop="20230602050000 +0200" channel="[03] Antena 3">
+    <title lang="es">Galería del coleccionista</title>
+    <desc lang="es">Espacio comercial.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1254041" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230602050000 +0200" stop="20230602060000 +0200" channel="[03] Antena 3">
+    <title lang="es">Minutos musicales</title>
+    <desc lang="es">Emisión de videoclips y piezas musicales.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Música</category>
+    <category lang="es">Videoclips</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P661411" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230602060000 +0200" stop="20230602061500 +0200" channel="[03] Antena 3">
+    <title lang="es">Remescar cosmética al instante</title>
+    <desc lang="es">Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P2188763" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230602061500 +0200" stop="20230602085500 +0200" channel="[03] Antena 3">
+    <title lang="es">Las noticias de la mañana</title>
+    <desc lang="es">Primer noticiario de la jornada, en el que se ofrece un avance de las principales noticias del día. Manu Sánchez, junto a Marina Monzón y Noor Ben Yessef, conducen este informativo matinal. Con la información del tiempo a cargo de Mercedes Martín.(n)</desc>
+    <date>2014</date>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758281" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230602085500 +0200" stop="20230602132000 +0200" channel="[03] Antena 3">
+    <title lang="es">Espejo Público</title>
+    <desc lang="es">Magacín matinal presentado por Susana Griso cuyo eje central es la actualidad nacional e internacional más inmediata. El programa incluye reportajes, entrevistas, tertulias y debates, así como secciones sobre gastronomía, moda, belleza, salud y crónica de sucesos.(n)</desc>
+    <credits>
+      <director>Julián Nieto</director>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039911" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S17 E4023</episode-num>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+  </programme>
+  <programme start="20230602132000 +0200" stop="20230602134500 +0200" channel="[03] Antena 3">
+    <title lang="es">Cocina abierta de Karlos Arguiñano</title>
+    <desc lang="es">Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios en este programa de Antena 3. El cocinero vasco hace las delicias de los aficionados a los fogones ofreciendo a diario ideas para realizar suculentos platos.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Cocina</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039913" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S12 E2566</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20230602134500 +0200" stop="20230602150000 +0200" channel="[03] Antena 3">
+    <title lang="es">La ruleta de la suerte</title>
+    <desc lang="es">Clásico concurso en el que tres participantes deben adivinar las letras correctas que forman una palabra o una frase con la ayuda de una ruleta que cuenta con 24 opciones. La presentación del programa corre a cargo de Jorge Fernández con la colaboración de Laura Moure.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039915" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E3997</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20230602150000 +0200" stop="20230602154500 +0200" channel="[03] Antena 3">
+    <title lang="es">Antena 3 Noticias 1</title>
+    <desc lang="es">Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe.(n)</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758302" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230602154500 +0200" stop="20230602160000 +0200" channel="[03] Antena 3">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional.(n)</desc>
+    <date>2013</date>
+    <category lang="es">Información</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105271" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230602160200 +0200" stop="20230602163000 +0200" channel="[03] Antena 3">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+    <desc lang="es">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.(n)</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P997438" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230602163000 +0200" stop="20230602173000 +0200" channel="[03] Antena 3">
+    <title lang="es">Amar es para siempre</title>
+    <desc lang="es">Inés y Mauro son dos jóvenes abogados que pese a no tener muy buena relación cuando se conocen se van enamorando. Ella ve en él a un chico arrogante, pero ese espíritu alegre y alocado hará que entre ellos surja algo más fuerte. Su historia de amor se enmarca en la España de los años 60, una época de reconstrucción, cambios y crecimiento.(n)</desc>
+    <credits>
+      <actor>Manuel Baqueiro</actor>
+      <actor>Itziar Miranda</actor>
+      <actor>José Antonio Sayagués</actor>
+      <actor>Marc Clotet</actor>
+      <actor>Bárbara Goenaga</actor>
+      <actor>Rocío Muñoz</actor>
+      <actor>Nadia de Santiago</actor>
+      <actor>Javier Collado</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Series</category>
+    <category lang="es">Telenovela</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039917" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S11 E2634</episode-num>
+    <rating system="ES">
+      <value>7</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
+    </rating>
+  </programme>
+  <programme start="20230602173000 +0200" stop="20230602190000 +0200" channel="[03] Antena 3">
+    <title lang="es">Pecado original</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Una historia de ambición, lujo, poder y amor con tres mujeres protagonistas muy distintas entre sí y de métodos opuestos. Las tres comparten un mismo objetivo: luchar por conseguir aquello que quieren.(n)</desc>
+    <credits>
+      <actor>Eda Ece</actor>
+      <actor>Nesrin Cavadzade</actor>
+      <actor>Biran Damla Yilmaz</actor>
+      <actor>Sevval Sam</actor>
+      <actor>Sevda Erginci</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Series</category>
+    <category lang="es">Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P2178878" />
+    <country lang="es">Turquía</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230602190000 +0200" stop="20230602200000 +0200" channel="[03] Antena 3">
+    <title lang="es">Y ahora, Sonsoles</title>
+    <desc lang="es">Espacio dedicado a los asuntos de más actualidad con los mejores colaboradores e invitados. Es un programa presentado por la periodista Sonsoles Ónega.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039919" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E157</episode-num>
+    <rating system="ES">
+      <value>16</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-16.svg" />
+    </rating>
+  </programme>
+  <programme start="20230602200000 +0200" stop="20230602210000 +0200" channel="[03] Antena 3">
+    <title lang="es">Pasapalabra</title>
+    <desc lang="es">Concurso presentado por Roberto Leal, que se basa en las habilidades con el lenguaje. Durante los 30 minutos que dura el espacio, los concursantes, ayudados por famosos, tendrán que superar pruebas diferentes que giran alrededor del alfabeto y las palabras.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039921" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S3 E781</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20230602210000 +0200" stop="20230602214500 +0200" channel="[03] Antena 3">
+    <title lang="es">Antena 3 Noticias 2</title>
+    <desc lang="es">Informativo nocturno, emitido de lunes a viernes, que recoge las noticias que se han producido a lo largo de la jornada de la mano de Vicente Vallés y Esther Vaquero. El espacio aborda la información de carácter general, que va sucedida de la información deportiva.(n)</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758329" />
+    <star-rating system="ES">
+      <value>8.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230602214500 +0200" stop="20230602215500 +0200" channel="[03] Antena 3">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez, Alba Dueñas y Angie Rigueiro. Un repaso a los resultados deportivos de la jornada en el ámbito nacional e internacional.(n)</desc>
+    <date>2013</date>
+    <category lang="es">Información</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105272" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230602215500 +0200" stop="20230602221000 +0200" channel="[03] Antena 3">
+    <title lang="es">La previsión de las 9</title>
+    <desc lang="es">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente del planeta.(n)</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105306" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230602221000 +0200" stop="20230603002000 +0200" channel="[03] Antena 3">
+    <title lang="es">Tu cara me suena</title>
+    <sub-title lang="es">Gala 10</sub-title>
+    <desc lang="es">Programa de talentos presentado por Manel Fuentes en el que diferentes personajes conocidos muestran su habilidad como cantantes. Cada semana preparan sus temas en una academia, pero no sólo se trata de cantar sino también de imitar al intérprete original de la canción.(n)</desc>
+    <credits>
+      <director>Tinet Rubira</director>
+    </credits>
+    <date>2023</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3039909" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S10 E11</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20230603002000 +0200" stop="20230603023000 +0200" channel="[03] Antena 3">
+    <title lang="es">Tu cara me suena</title>
+    <desc lang="es">Manu Tenorio, invitado del programa, se pone en la piel de Frank Sinatra con una espectacular actuación. Además, suben al escenario en esta edición Nino Bravo, Tina Turner, Ricky Martin, Pancho Céspedes, Willie Deville, Doris Day, Blondie, Mocedades y Zucchero.(n)</desc>
+    <credits>
+      <director>Tinet Rubira</director>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1240068" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603023000 +0200" stop="20230603031500 +0200" channel="[03] Antena 3">
+    <title lang="es">Live casino</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Concurso nocturno para que los espectadores puedan jugar como si estuvieran en el casino desde casa. La ruleta, el blackjack o el punto y banca son algunos de los juegos disponibles.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1531672" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603031500 +0200" stop="20230603040000 +0200" channel="[03] Antena 3">
+    <title lang="es">Play Uzu Nights</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Variedades</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1807649" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603040000 +0200" stop="20230603050000 +0200" channel="[03] Antena 3">
+    <title lang="es">Galería del coleccionista</title>
+    <desc lang="es">Espacio comercial.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1254041" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603050000 +0200" stop="20230603064500 +0200" channel="[03] Antena 3">
+    <title lang="es">Minutos musicales</title>
+    <desc lang="es">Emisión de videoclips y piezas musicales.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Música</category>
+    <category lang="es">Videoclips</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P661411" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603064500 +0200" stop="20230603070000 +0200" channel="[03] Antena 3">
+    <title lang="es">Remescar cosmética al instante</title>
+    <desc lang="es">Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P2188763" />
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+  </programme>
+  <programme start="20230603070000 +0200" stop="20230603073300 +0200" channel="[03] Antena 3">
+    <title lang="es">Pelopicopata</title>
+    <desc lang="es">El programa de hoy muestra el instinto maternal de María, una leona que vive en la Reserva del Castillo de las Guardas, en Sevilla, y que acaba de dar a luz a cuatro cachorros. Además, una joven llamada Irina nos presenta a sus dos mascotas: los hurones Mulán y Chani.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1329232" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603073300 +0200" stop="20230603080600 +0200" channel="[03] Antena 3">
+    <title lang="es">Pelopicopata</title>
+    <desc lang="es">Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1329235" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603080600 +0200" stop="20230603084000 +0200" channel="[03] Antena 3">
+    <title lang="es">Pelopicopata</title>
+    <desc lang="es">Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos presentan a sus mascotas.(n)</desc>
+    <date>2004</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1331220" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603084000 +0200" stop="20230603100000 +0200" channel="[03] Antena 3">
+    <title lang="es">Los más</title>
+    <desc lang="es">Espacio de entretenimiento que en cada edición elabora un ranquin con diferentes temáticas. Cada semana ofrece un conjunto de las imágenes más destacadas de la televisión que han despertado la carcajada del público.(n)</desc>
+    <date>2017</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Zapping</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P971818" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603100000 +0200" stop="20230603123000 +0200" channel="[03] Antena 3">
+    <title lang="es">La Voz Kids: Audiciones a ciegas</title>
+    <title lang="en">La Voz Kids</title>
+    <sub-title lang="es">Audiciones a ciegas (VI)</sub-title>
+    <desc lang="es">Aitana, Sebastián Yatra, David Bisbal y Rosario son los encargados de guiar y asesorar a las pequeñas estrellas que se presentan a este concurso. Eva González actúa como maestra de ceremonias para encontrar la mejor voz infantil de España.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Música</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3040685" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+  </programme>
+  <programme start="20230603123000 +0200" stop="20230603134500 +0200" channel="[03] Antena 3">
+    <title lang="es">Cocina abierta de Karlos Arguiñano</title>
+    <title lang="en">TEMPORADA 12</title>
+    <desc lang="es">Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios en este programa de Antena 3. El cocinero vasco hace las delicias de los aficionados a los fogones ofreciendo a diario ideas para realizar suculentos platos.(n)</desc>
+    <date>2022</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Cocina</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P2119529" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S12</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603134500 +0200" stop="20230603150000 +0200" channel="[03] Antena 3">
+    <title lang="es">La ruleta de la suerte</title>
+    <desc lang="es">Clásico concurso en el que tres participantes deben adivinar las letras correctas que forman una palabra o una frase con la ayuda de una ruleta que cuenta con 24 opciones. La presentación del programa corre a cargo de Jorge Fernández con la colaboración de Laura Moure.(n)</desc>
+    <credits>
+      <director>Nacho Correa</director>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P2052688" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">E3751</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603150000 +0200" stop="20230603154500 +0200" channel="[03] Antena 3">
+    <title lang="es">Antena 3 Noticias</title>
+    <desc lang="es">Edición del mediodía de los informativos del fin de semana de Antena 3, que sigue la estructura de los noticiarios diarios de la cadena. Las noticias acontecidas en las últimas horas son las protagonistas de este espacio.(n)</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758477" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603154500 +0200" stop="20230603155500 +0200" channel="[03] Antena 3">
+    <title lang="es">Deportes fin de semana</title>
+    <desc lang="es">Edición de fin de semana de la información deportiva de la mano de Alba Dueñas, Angie Rigueiro y Rocío Martínez . Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales.(n)</desc>
+    <date>2013</date>
+    <category lang="es">Información</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105273" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603160000 +0200" stop="20230603173100 +0200" channel="[03] Antena 3">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M336149V710030" />
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603173100 +0200" stop="20230603193000 +0200" channel="[03] Antena 3">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M336149V710030" />
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603193000 +0200" stop="20230603210000 +0200" channel="[03] Antena 3">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Cine</category>
+    <category lang="es">Otros</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/M336149V710030" />
+    <rating system="ES">
+      <value>12</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603210000 +0200" stop="20230603214500 +0200" channel="[03] Antena 3">
+    <title lang="es">Antena 3 Noticias</title>
+    <desc lang="es">Edición vespertina del fin de semana de Antena 3 que sigue la estructura de los informativos diarios de la cadena. Matías Prats y Mónica Carrillo se encargan de presentar las diversas ediciones del fin de semana.(n)</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P758482" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603214500 +0200" stop="20230603215500 +0200" channel="[03] Antena 3">
+    <title lang="es">Deportes fin de semana</title>
+    <desc lang="es">Edición de fin de semana de la información deportiva de la mano de Alba Dueñas, Angie Rigueiro y Rocío Martínez . Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en las competiciones nacionales.(n)</desc>
+    <date>2013</date>
+    <category lang="es">Información</category>
+    <category lang="es">Deporte</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105273" />
+    <country lang="es">España</country>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603215500 +0200" stop="20230603221000 +0200" channel="[03] Antena 3">
+    <title lang="es">Tu tiempo fin de semana</title>
+    <desc lang="es">Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan al medio ambiente del planeta.(n)</desc>
+    <category lang="es">Información</category>
+    <category lang="es">Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1105325" />
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230603221000 +0200" stop="20230604002000 +0200" channel="[03] Antena 3">
+    <title lang="es">La Voz Kids: Las batallas</title>
+    <title lang="en">La Voz Kids</title>
+    <sub-title lang="es">Las batallas (1)</sub-title>
+    <desc lang="es">Aitana, Sebastián Yatra, David Bisbal y Rosario son los encargados de guiar y asesorar a las pequeñas estrellas que se presentan a este concurso. Eva González actúa como maestra de ceremonias para encontrar la mejor voz infantil de España.(n)</desc>
+    <date>2023</date>
+    <category lang="es">Música</category>
+    <category lang="es">Programa</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P3040687" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230604002000 +0200" stop="20230604023000 +0200" channel="[03] Antena 3">
+    <title lang="es">La Voz Kids</title>
+    <desc lang="es">Último asalto del programa en el que los seis 'talents' de cada equipo tendrán que volver a cantar sus temas de las audiciones a ciegas y así, conquistar a los 'coaches' para poder ser uno de los cuatro elegidos para pasar a la semifinal.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1911692" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>10.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230604023000 +0200" stop="20230604031500 +0200" channel="[03] Antena 3">
+    <title lang="es">Live casino</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Concurso nocturno para que los espectadores puedan jugar como si estuvieran en el casino desde casa. La ruleta, el blackjack o el punto y banca son algunos de los juegos disponibles.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1531672" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230604031500 +0200" stop="20230604040000 +0200" channel="[03] Antena 3">
+    <title lang="es">Play Uzu Nights</title>
+    <title lang="en">TEMPORADA 1</title>
+    <desc lang="es">Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la velada con confesiones, anécdotas y momentos de juego.(n)</desc>
+    <date>2020</date>
+    <category lang="es">Entretenimiento</category>
+    <category lang="es">Variedades</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1807649" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1</episode-num>
+    <rating system="ES">
+      <value>18</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-18.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230604040000 +0200" stop="20230604050000 +0200" channel="[03] Antena 3">
+    <title lang="es">Galería del coleccionista</title>
+    <desc lang="es">Espacio comercial.(n)</desc>
+    <date>2021</date>
+    <category lang="es">Ocio y Aficiones</category>
+    <category lang="es">Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P1254041" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230604050000 +0200" stop="20230604064500 +0200" channel="[03] Antena 3">
+    <title lang="es">Minutos musicales</title>
+    <desc lang="es">Emisión de videoclips y piezas musicales.(n)</desc>
+    <date>2018</date>
+    <category lang="es">Música</category>
+    <category lang="es">Videoclips</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/MA3P661411" />
+    <rating system="ES">
+      <value>TP</value>
+      <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
+    </rating>
+    <star-rating system="ES">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+</tv>
