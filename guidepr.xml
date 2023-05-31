@@ -2,6 +2,7 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="[03] Antena 3">
     <display-name lang="es">ANTENA 3,ANTENA 3 FHD,ANTENA 3 HD</display-name>
+    <display-name lang="es">ANTENA 3 FHD</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/A3.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
