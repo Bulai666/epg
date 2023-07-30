@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="||ES|| Mundotoro HD" tvg-logo="" group-title="SPAIN",||ES|| Mundotoro HD
+http://obshd.tv:25461/sallabosV1/5FnySQJkxxtv2/83555
 #EXTINF:-1 tvg-id="AMC.es" tvg-name="||ES|| AMC FHD" tvg-logo="http://obsfullhd.tv:25461/images/1d3400b2a2a3260078fe4f3e7a2e4b4a.png" group-title="SPAIN",||ES|| AMC FHD
 http://obshd.tv:25461/sallabosV1/5FnySQJkxxtv2/1909
 #EXTINF:-1 tvg-id="AXN.es" tvg-name="||ES|| AXN FHD" tvg-logo="http://obsfullhd.tv:25461/images/afeda469188fbc964d949faa482b7b57.png" group-title="SPAIN",||ES|| AXN FHD
@@ -361,5 +363,3 @@ http://obshd.tv:25461/sallabosV1/5FnySQJkxxtv2/6951
 http://obshd.tv:25461/sallabosV1/5FnySQJkxxtv2/7529
 #EXTINF:-1 tvg-id="" tvg-name="||ES|| TAQUILLA10" tvg-logo="http://obsfullhd.tv:25461/images/31d97e13d7ba801a9142862ed6683ec9.png" group-title="SPAIN",||ES|| TAQUILLA10
 http://obshd.tv:25461/sallabosV1/5FnySQJkxxtv2/7530
-#EXTINF:-1 tvg-id="" tvg-name="||ES|| Mundotoro HD" tvg-logo="" group-title="SPAIN",||ES|| Mundotoro HD
-http://obshd.tv:25461/sallabosV1/5FnySQJkxxtv2/83555
