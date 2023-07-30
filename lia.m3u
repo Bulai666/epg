@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="||ES|| Mundotoro HD" tvg-logo="" group-title="SPAIN",||ES|| Mundotoro HD
 http://obshd.tv:25461/sallabosV1/5FnySQJkxxtv2/83555
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="||ES|| CANAL+ TOROS HD" tvg-logo="http://obsfullhd.tv:25461/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="SPAIN",||ES|| CANAL+ TOROS HD
+http://obshd.tv:25461/sallabosV1/5FnySQJkxxtv2/3591
 #EXTINF:-1 tvg-id="AMC.es" tvg-name="||ES|| AMC FHD" tvg-logo="http://obsfullhd.tv:25461/images/1d3400b2a2a3260078fe4f3e7a2e4b4a.png" group-title="SPAIN",||ES|| AMC FHD
 http://obshd.tv:25461/sallabosV1/5FnySQJkxxtv2/1909
 #EXTINF:-1 tvg-id="AXN.es" tvg-name="||ES|| AXN FHD" tvg-logo="http://obsfullhd.tv:25461/images/afeda469188fbc964d949faa482b7b57.png" group-title="SPAIN",||ES|| AXN FHD
@@ -221,8 +223,6 @@ http://obshd.tv:25461/sallabosV1/5FnySQJkxxtv2/3587
 http://obshd.tv:25461/sallabosV1/5FnySQJkxxtv2/3589
 #EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="||ES|| CANAL+ COCINA HD" tvg-logo="http://obsfullhd.tv:25461/images/48f2f194ab3167c9b0a38afedfff1164.png" group-title="SPAIN",||ES|| CANAL+ COCINA HD
 http://obshd.tv:25461/sallabosV1/5FnySQJkxxtv2/3590
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="||ES|| CANAL+ TOROS HD" tvg-logo="http://obsfullhd.tv:25461/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="SPAIN",||ES|| CANAL+ TOROS HD
-http://obshd.tv:25461/sallabosV1/5FnySQJkxxtv2/3591
 #EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="||ES|| CLAN TVE HD" tvg-logo="http://obsfullhd.tv:25461/images/e412ed3894b9b7d6f5db550b21d079bf.png" group-title="SPAIN",||ES|| CLAN TVE HD
 http://obshd.tv:25461/sallabosV1/5FnySQJkxxtv2/3592
 #EXTINF:-1 tvg-id="Divinity.es" tvg-name="||ES|| DIVINITY HD" tvg-logo="http://obsfullhd.tv:25461/images/fdced6b08c1f46f16493b1048a624d74.png" group-title="SPAIN",||ES|| DIVINITY HD
