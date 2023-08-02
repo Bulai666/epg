@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Toros TV (es)" tvg-logo="http://209.126.82.213/LogosP/Spain/mundotorotv.png" group-title="España",Toros TV (es)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327778
+#EXTINF:-1 tvg-id="" tvg-name="Mundotoro SD (es)" tvg-logo="http://tv.titanicos.net:2095/images/t3DjhmM20zDCbr8LtOC_A3MpqHy2mufk9DH7_OihloKXZnYHSQHc3XEG2E6ibuDI2XjDOwCGCkC-vWU4FV4PLQ.png" group-title="España",Mundotoro SD (es)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333098
+#EXTINF:-1 tvg-id="" tvg-name="Mundotoro HD (es)" tvg-logo="http://tv.titanicos.net:2095/images/t3DjhmM20zDCbr8LtOC_A3MpqHy2mufk9DH7_OihloKXZnYHSQHc3XEG2E6ibuDI2XjDOwCGCkC-vWU4FV4PLQ.png" group-title="España",Mundotoro HD (es)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333099
+#EXTINF:-1 tvg-id="" tvg-name="Mundotoro FHD (es)" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="España",Mundotoro FHD (es)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333100
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD (es)" tvg-logo="https://www.muycomputer.com/wp-content/uploads/2011/09/nat_geo_wild_de_hd1.jpg" group-title="España",Nat Geo Wild FHD (es)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327753
 #EXTINF:-1 tvg-id="" tvg-name="AMC Break FHD (es)" tvg-logo="http://209.126.82.213/LogosP/Spain/amcbreak.png" group-title="España",AMC Break FHD (es)
@@ -398,9 +402,3 @@ http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327795
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/327796
 #EXTINF:-1 tvg-id="" tvg-name="Dazn F1 HD (es)" tvg-logo="http://209.126.82.213/LogosP/Spain/daznf1.png" group-title="España",Dazn F1 HD (es)
 http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333097
-#EXTINF:-1 tvg-id="" tvg-name="Mundotoro SD (es)" tvg-logo="http://tv.titanicos.net:2095/images/t3DjhmM20zDCbr8LtOC_A3MpqHy2mufk9DH7_OihloKXZnYHSQHc3XEG2E6ibuDI2XjDOwCGCkC-vWU4FV4PLQ.png" group-title="España",Mundotoro SD (es)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333098
-#EXTINF:-1 tvg-id="" tvg-name="Mundotoro HD (es)" tvg-logo="http://tv.titanicos.net:2095/images/t3DjhmM20zDCbr8LtOC_A3MpqHy2mufk9DH7_OihloKXZnYHSQHc3XEG2E6ibuDI2XjDOwCGCkC-vWU4FV4PLQ.png" group-title="España",Mundotoro HD (es)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333099
-#EXTINF:-1 tvg-id="" tvg-name="Mundotoro FHD (es)" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="España",Mundotoro FHD (es)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333100
