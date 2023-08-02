@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Mundotoro SD (es)" tvg-logo="http://tv.titanicos.net:2095/images/t3DjhmM20zDCbr8LtOC_A3MpqHy2mufk9DH7_OihloKXZnYHSQHc3XEG2E6ibuDI2XjDOwCGCkC-vWU4FV4PLQ.png" group-title="España",Mundotoro SD (es)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333098
+#EXTINF:-1 tvg-id="" tvg-name="Mundotoro HD (es)" tvg-logo="http://tv.titanicos.net:2095/images/t3DjhmM20zDCbr8LtOC_A3MpqHy2mufk9DH7_OihloKXZnYHSQHc3XEG2E6ibuDI2XjDOwCGCkC-vWU4FV4PLQ.png" group-title="España",Mundotoro HD (es)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333099
+#EXTINF:-1 tvg-id="" tvg-name="Mundotoro FHD (es)" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="España",Mundotoro FHD (es)
+http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/333100
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TOROS" tvg-logo="" group-title="ES: ESPANA",ES: MOVISTAR TOROS
+http://aca3b.tk:8080/Moskovic/g94XfRcTck/15221
 #EXTINF:-1 tvg-id="torostv.es" tvg-name="|ES| Toros TV 4K+" tvg-logo="" group-title="ES : Spain",|ES| Toros TV 4K+
 http://62.182.83.91:80/adagio-discord@1/1@xZpWNf4md2@1/14020
 #EXTINF:-1 tvg-id="" tvg-name="|PT| Toros TV" tvg-logo="" group-title="PT : Portugal",|PT| Toros TV
