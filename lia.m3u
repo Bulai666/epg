@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="torostv.es" tvg-name="|ES| Toros TV 4K+" tvg-logo="" group-title="ES : Spain",|ES| Toros TV 4K+
+http://62.182.83.91:80/adagio-discord@1/1@xZpWNf4md2@1/14020
+#EXTINF:-1 tvg-id="" tvg-name="|PT| Toros TV" tvg-logo="" group-title="PT : Portugal",|PT| Toros TV
+http://62.182.83.91:80/adagio-discord@1/1@xZpWNf4md2@1/14398
 #EXTINF:-1 tvg-id="" tvg-name="ES: #0" tvg-logo="" group-title="SPAIN",ES: #0
 http://23.134.94.129:8080/istream_telegram/9nL6RN6SyXwx/80662
 #EXTINF:-1 tvg-id="" tvg-name="ES: #0 FHD" tvg-logo="" group-title="SPAIN",ES: #0 FHD
