@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TOROS" tvg-logo="" group-title="ES: ESPANA",ES: MOVISTAR TOROS
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/15221
-#EXTINF:-1 tvg-id="" tvg-name="|ES| TOROS" tvg-logo="" group-title="Spaine",|ES| TOROS
-http://a36m.net:8080/shahad/AA123456/73195
-#EXTINF:-1 tvg-id="" tvg-name="|ES| TOROS  FHD" tvg-logo="" group-title="Spaine",|ES| TOROS  FHD
-http://a36m.net:8080/shahad/AA123456/73196
 #EXTINF:-1 tvg-id="" tvg-name="ES: #0" tvg-logo="" group-title="SPAIN",ES: #0
 http://23.134.94.129:8080/istream_telegram/9nL6RN6SyXwx/80662
 #EXTINF:-1 tvg-id="" tvg-name="ES: #0 FHD" tvg-logo="" group-title="SPAIN",ES: #0 FHD
