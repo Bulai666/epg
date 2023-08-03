@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="torostv.es" tvg-name="|ES| Toros TV 4K+" tvg-logo="" group-title="ES : Spain",|ES| Toros TV 4K+
+http://62.182.83.91:80/adagio-discord@1/1@xZpWNf4md2@1/14020
 #EXTINF:-1 tvg-id="" tvg-name="Toros HD ES" tvg-logo="https://i.postimg.cc/85YDRbPm/Toros.jpg" group-title="İSPANYA KANALLARI",Toros HD ES
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/134252
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TOROS" tvg-logo="" group-title="ES: ESPANA",ES: MOVISTAR TOROS
