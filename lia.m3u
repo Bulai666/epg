@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Toros HD ES" tvg-logo="https://i.postimg.cc/85YDRbPm/Toros.jpg" group-title="İSPANYA KANALLARI",Toros HD ES
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/134252
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TOROS" tvg-logo="" group-title="ES: ESPANA",ES: MOVISTAR TOROS
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/15221
 #EXTINF:-1 tvg-id="" tvg-name="ES: #0" tvg-logo="" group-title="SPAIN",ES: #0
