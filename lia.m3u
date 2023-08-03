@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Torohole TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toros_tv_es.png" group-title="TV | Spanish",Torohole TV
-http://skycastersupports.mine.nu:25461/MULTIGVuCBPQPj/4tremeplus@2323/45443
-#EXTINF:-1 tvg-id="" tvg-name="Toros TV Op.3" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toros_tv_es.png" group-title="TV | Spanish",Toros TV Op.3
-http://skycastersupports.mine.nu:25461/MULTIGVuCBPQPj/4tremeplus@2323/45444
-#EXTINF:-1 tvg-id="" tvg-name="Toros TV Op.5" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toros_tv_es.png" group-title="TV | Spanish",Toros TV Op.5
-http://skycastersupports.mine.nu:25461/MULTIGVuCBPQPj/4tremeplus@2323/45446
-#EXTINF:-1 tvg-id="" tvg-name="Toros TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toros_tv_es.png" group-title="TV | Deportes",Toros TV
-http://skycastersupports.mine.nu:25461/MULTIGVuCBPQPj/4tremeplus@2323/40949
-#EXTINF:-1 tvg-id="torostv.es" tvg-name="|ES| Toros TV 4K+" tvg-logo="" group-title="ES : Spain",|ES| Toros TV 4K+
-http://62.182.83.91:80/adagio-discord@1/1@xZpWNf4md2@1/14020
-#EXTINF:-1 tvg-id="" tvg-name="Toros HD ES" tvg-logo="https://i.postimg.cc/85YDRbPm/Toros.jpg" group-title="İSPANYA KANALLARI",Toros HD ES
-http://dk.tgt6373.online:8080/tv2204/tvlnk2204/134252
 #EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TOROS" tvg-logo="" group-title="ES: ESPANA",ES: MOVISTAR TOROS
 http://aca3b.tk:8080/Moskovic/g94XfRcTck/15221
 #EXTINF:-1 tvg-id="" tvg-name="ES: #0" tvg-logo="" group-title="SPAIN",ES: #0
