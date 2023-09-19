@@ -6,9 +6,9 @@
     <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/A3.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
-  <channel id="[02] LA 2">
-    <display-name lang="es">[02] LA 2</display-name>
-    <display-name lang="es">la2.es</display-name>
+  <channel id="ES: LA 2 FHD">
+    <display-name lang="es">ES: LA 2 FHD</display-name>
+    <display-name lang="es">ES: LA 2 HD</display-name>
     <icon src="https://www.movistarplus.es/recorte/m-NEO/guiapc/LA2.png" />
     <url>http://www.movistarplus.es</url>
   </channel>
@@ -1196,9 +1196,9 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919051500 +0200" stop="20230919061500 +0200" channel="[02] LA 2">
+  <programme start="20230919051500 +0200" stop="20230919061500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">La aventura del saber</title>
-    <desc lang="es">Programa diario matinal destinado a la formación educativa y la divulgación mediante entrevistas y series documentales. Coproducido por RTVE y el Ministerio de Educación, se trata de uno de los espacios más veteranos de la cadena, con más de 21 años en antena.</desc>
+    <desc lang="es">Programa diario matinal destinado a la formación educativa y la divulgación mediante entrevistas y series documentales. Coproducido por RTVE y el Ministerio de Educación, se trata de uno de los espacios más veteranos de la cadena, con más de 21 años en antena.(n)</desc>
     <date>2022</date>
     <category lang="es">Cultural/Educativo</category>
     <category lang="es">Programa</category>
@@ -1210,10 +1210,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230919061500 +0200" stop="20230919064500 +0200" channel="[02] LA 2">
+  <programme start="20230919061500 +0200" stop="20230919064500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Turismo rural en Europa</title>
     <sub-title lang="es">De la campiña sevillana a Sierra Morena</sub-title>
-    <desc lang="es">Espacio que introduce a los espectadores en las numerosas casas dedicadas al turismo rural que existen en Europa. El programa propone, además del lugar de alojamiento, rutas y actividades de interés que se pueden realizar en las proximidades.</desc>
+    <desc lang="es">Espacio que introduce a los espectadores en las numerosas casas dedicadas al turismo rural que existen en Europa. El programa propone, además del lugar de alojamiento, rutas y actividades de interés que se pueden realizar en las proximidades.(n)</desc>
     <date>2015</date>
     <category lang="es">Documentales</category>
     <category lang="es">Viajes</category>
@@ -1229,10 +1229,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919064500 +0200" stop="20230919070000 +0200" channel="[02] LA 2">
+  <programme start="20230919064500 +0200" stop="20230919070000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">La 2 express</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos.</desc>
+    <desc lang="es">En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos.(n)</desc>
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Otros</category>
@@ -1243,10 +1243,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919070000 +0200" stop="20230919072500 +0200" channel="[02] LA 2">
+  <programme start="20230919070000 +0200" stop="20230919072500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Inglés Online</title>
     <title lang="en">Inglés Online/23</title>
-    <desc lang="es">Curso de inglés de Televisión Española para hisponoparlantes.</desc>
+    <desc lang="es">Curso de inglés de Televisión Española para hisponoparlantes.(n)</desc>
     <date>2022</date>
     <category lang="es">Cultural/Educativo</category>
     <category lang="es">Programa</category>
@@ -1258,10 +1258,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230919072500 +0200" stop="20230919074000 +0200" channel="[02] LA 2">
+  <programme start="20230919072500 +0200" stop="20230919074000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">La 2 express</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos.</desc>
+    <desc lang="es">En este espacio de corta duración se ofrece un adelanto de los contenidos que se van a emitir en la cadena. También hay lugar para resúmenes y momentos destacados de programas ya emitidos.(n)</desc>
     <date>2019</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Otros</category>
@@ -1272,10 +1272,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919074000 +0200" stop="20230919081000 +0200" channel="[02] LA 2">
+  <programme start="20230919074000 +0200" stop="20230919081000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Flash Moda</title>
     <title lang="en">TEMPORADA 2023</title>
-    <desc lang="es">La cadena pública desfila por la pasarela de la mano de Nieves Álvarez en este repaso a las novedades del mundo de la moda, las últimas tendencias y las colecciones de vanguardia. Además, el programa presta especial atención al trabajo de los diseñadores españoles.</desc>
+    <desc lang="es">La cadena pública desfila por la pasarela de la mano de Nieves Álvarez en este repaso a las novedades del mundo de la moda, las últimas tendencias y las colecciones de vanguardia. Además, el programa presta especial atención al trabajo de los diseñadores españoles.(n)</desc>
     <credits>
       <director>Jesús María Montes-Fernández</director>
     </credits>
@@ -1292,10 +1292,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919081000 +0200" stop="20230919083000 +0200" channel="[02] LA 2">
+  <programme start="20230919081000 +0200" stop="20230919083000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Nunca es demasiado pequeño</title>
     <sub-title lang="es">Menos de 30m2</sub-title>
-    <desc lang="es">Diseños que se deslizan, se pliegan y se ocultan, tal como lo hacen estos diminutos espacios. Con menos de 30 metros cuadrados, el diseño de estas casas representa una parte clave de la creación de viviendas céntricas y asequibles.</desc>
+    <desc lang="es">Diseños que se deslizan, se pliegan y se ocultan, tal como lo hacen estos diminutos espacios. Con menos de 30 metros cuadrados, el diseño de estas casas representa una parte clave de la creación de viviendas céntricas y asequibles.(n)</desc>
     <credits>
       <director>Mason Mirabile</director>
       <writer>Mason Mirabile</writer>
@@ -1311,10 +1311,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230919083000 +0200" stop="20230919085000 +0200" channel="[02] LA 2">
+  <programme start="20230919083000 +0200" stop="20230919085000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Nunca es demasiado pequeño</title>
     <sub-title lang="es">Estancias cortas</sub-title>
-    <desc lang="es">Una experiencia de lujo en un espacio reducido, estos hogares sostenibles lejos del hogar son el futuro de nuestras vacaciones. Las casas de vacaciones sostenibles traen alojamiento de bajo impacto a nuestras ciudades y áreas rurales.</desc>
+    <desc lang="es">Una experiencia de lujo en un espacio reducido, estos hogares sostenibles lejos del hogar son el futuro de nuestras vacaciones. Las casas de vacaciones sostenibles traen alojamiento de bajo impacto a nuestras ciudades y áreas rurales.(n)</desc>
     <credits>
       <director>Mason Mirabile</director>
       <writer>Mason Mirabile</writer>
@@ -1330,10 +1330,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230919085000 +0200" stop="20230919093000 +0200" channel="[02] LA 2">
+  <programme start="20230919085000 +0200" stop="20230919093000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Agrosfera</title>
     <title lang="en">TEMPORADA 23/24</title>
-    <desc lang="es">Espacio informativo sobre el campo, la pesca y la ganadería de España. Esta producción refleja todas las noticias institucionales que surgen tanto en el ámbito nacional como en el internacional, especialmente de las que llegan de Bruselas.</desc>
+    <desc lang="es">Espacio informativo sobre el campo, la pesca y la ganadería de España. Esta producción refleja todas las noticias institucionales que surgen tanto en el ámbito nacional como en el internacional, especialmente de las que llegan de Bruselas.(n)</desc>
     <credits>
       <director>Sergio Gómez Muñoz</director>
     </credits>
@@ -1346,10 +1346,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230919093000 +0200" stop="20230919095500 +0200" channel="[02] LA 2">
+  <programme start="20230919093000 +0200" stop="20230919095500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Aquí hay trabajo</title>
     <title lang="en">Aquí hay trabajo/24</title>
-    <desc lang="es">Un espacio que resume la actualidad del mundo laboral, con información sobre su situación, sobre becas y cursos de formación. Todo apoyado con invitados especialistas. Además, el programa muestra ofertas de empleo a las que pueden acceder los televidentes.</desc>
+    <desc lang="es">Un espacio que resume la actualidad del mundo laboral, con información sobre su situación, sobre becas y cursos de formación. Todo apoyado con invitados especialistas. Además, el programa muestra ofertas de empleo a las que pueden acceder los televidentes.(n)</desc>
     <date>2023</date>
     <category lang="es">Cultural/Educativo</category>
     <category lang="es">Programa</category>
@@ -1361,9 +1361,9 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230919095500 +0200" stop="20230919105500 +0200" channel="[02] LA 2">
+  <programme start="20230919095500 +0200" stop="20230919105500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">La aventura del saber</title>
-    <desc lang="es">Programa diario matinal destinado a la formación educativa y la divulgación mediante entrevistas y series documentales. Coproducido por RTVE y el Ministerio de Educación, se trata de uno de los espacios más veteranos de la cadena, con más de 21 años en antena.</desc>
+    <desc lang="es">Programa diario matinal destinado a la formación educativa y la divulgación mediante entrevistas y series documentales. Coproducido por RTVE y el Ministerio de Educación, se trata de uno de los espacios más veteranos de la cadena, con más de 21 años en antena.(n)</desc>
     <date>2023</date>
     <category lang="es">Cultural/Educativo</category>
     <category lang="es">Programa</category>
@@ -1375,10 +1375,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230919110000 +0200" stop="20230919113000 +0200" channel="[02] LA 2">
+  <programme start="20230919110000 +0200" stop="20230919113000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Diario de un nómada</title>
     <sub-title lang="es">Stalingrado, la ciudad que no existe</sub-title>
-    <desc lang="es">El viaje termina en la orilla del Volga, el río que separa Europa de Asia en la ciudad de Volgogrado, la antigua Stalingrado que fuera devastada durante la Segunda Guerra Mundial. Aquí buscamos la tumba que tiene un español que murió en la batalla.</desc>
+    <desc lang="es">El viaje termina en la orilla del Volga, el río que separa Europa de Asia en la ciudad de Volgogrado, la antigua Stalingrado que fuera devastada durante la Segunda Guerra Mundial. Aquí buscamos la tumba que tiene un español que murió en la batalla.(n)</desc>
     <date>2018</date>
     <category lang="es">Documentales</category>
     <category lang="es">Viajes</category>
@@ -1393,10 +1393,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919113000 +0200" stop="20230919115500 +0200" channel="[02] LA 2">
+  <programme start="20230919113000 +0200" stop="20230919115500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">El bosque protector</title>
     <sub-title lang="es">Desertificación, un problema global</sub-title>
-    <desc lang="es">Serie documental sobre los bosques de España, que tiene como objetivo concienciar a la opinión pública de la importancia que han tenido y tienen los bosques en la historia natural, social y económica del país, desde los tiempos más remotos hasta la actualidad, así como del negativo y gravísimo impacto de la acción del hombre sobre su conservación. La serie muestra la silenciosa pero insustituible labor protectora del bosque sobre el suelo, la fauna y su propia flora. Además, a lo largo de los diferentes documentales, se podrá observar los rincones más bellos de España.</desc>
+    <desc lang="es">Serie documental sobre los bosques de España, que tiene como objetivo concienciar a la opinión pública de la importancia que han tenido y tienen los bosques en la historia natural, social y económica del país, desde los tiempos más remotos hasta la actualidad, así como del negativo y gravísimo impacto de la acción del hombre sobre su conservación. La serie muestra la silenciosa pero insustituible labor protectora del bosque sobre el suelo, la fauna y su propia flora. Además, a lo largo de los diferentes documentales, se podrá observar los rincones más bellos de España.(n)</desc>
     <credits>
       <director>Luis García Esteban</director>
     </credits>
@@ -1414,11 +1414,11 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919115500 +0200" stop="20230919122200 +0200" channel="[02] LA 2">
+  <programme start="20230919115500 +0200" stop="20230919122200 +0200" channel="ES: LA 2 FHD">
     <title lang="es">El hombre y la Tierra: El cervatillo</title>
     <title lang="en">El hombre y la Tierra</title>
     <sub-title lang="es">El cervatillo (I)</sub-title>
-    <desc lang="es">Última serie de documentales de naturaleza dirigida y presentada por el mítico Félix Rodríguez de la Fuente. El espacio se mantuvo a lo largo de 92 capítulos, rompiendo récords de audiencia, y fue seguido en más de 40 países del mundo por unos 800 millones de personas.</desc>
+    <desc lang="es">Última serie de documentales de naturaleza dirigida y presentada por el mítico Félix Rodríguez de la Fuente. El espacio se mantuvo a lo largo de 92 capítulos, rompiendo récords de audiencia, y fue seguido en más de 40 países del mundo por unos 800 millones de personas.(n)</desc>
     <credits>
       <director>Félix Rodríguez de la Fuente</director>
     </credits>
@@ -1436,11 +1436,11 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919122200 +0200" stop="20230919125000 +0200" channel="[02] LA 2">
+  <programme start="20230919122200 +0200" stop="20230919125000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">El hombre y la Tierra: El cervatillo</title>
     <title lang="en">El hombre y la Tierra</title>
     <sub-title lang="es">El cervatillo (II)</sub-title>
-    <desc lang="es">Última serie de documentales de naturaleza dirigida y presentada por el mítico Félix Rodríguez de la Fuente. El espacio se mantuvo a lo largo de 92 capítulos, rompiendo récords de audiencia, y fue seguido en más de 40 países del mundo por unos 800 millones de personas.</desc>
+    <desc lang="es">Última serie de documentales de naturaleza dirigida y presentada por el mítico Félix Rodríguez de la Fuente. El espacio se mantuvo a lo largo de 92 capítulos, rompiendo récords de audiencia, y fue seguido en más de 40 países del mundo por unos 800 millones de personas.(n)</desc>
     <credits>
       <director>Félix Rodríguez de la Fuente</director>
     </credits>
@@ -1458,9 +1458,9 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919125000 +0200" stop="20230919143000 +0200" channel="[02] LA 2">
+  <programme start="20230919125000 +0200" stop="20230919143000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">El blanco, el amarillo y el negro</title>
-    <desc lang="es">Unos supuestos indios roban un pony mandado por el embajador de Japón. Una nota del jefe de los apaches informa de que si no ha recibido un millón de dólares antes de cuatro días, el pony morirá. El cónsul japonés pone el millón a disposición del banquero Butler. Para transportar el dinero confían la misión al más honrado e infeliz sheriff del condado, Jack el Negro. Pero el arca con el millón se convierte en una obsesión para un simpático y audaz bandido conocido por El Suizo. También interviene en el asunto un japonés llamado Sakura, cuidador del animal. El Suizo, Jack el Negro y Sakura juntan sus fuerzas para rescatar al animal.</desc>
+    <desc lang="es">Unos supuestos indios roban un pony mandado por el embajador de Japón. Una nota del jefe de los apaches informa de que si no ha recibido un millón de dólares antes de cuatro días, el pony morirá. El cónsul japonés pone el millón a disposición del banquero Butler. Para transportar el dinero confían la misión al más honrado e infeliz sheriff del condado, Jack el Negro. Pero el arca con el millón se convierte en una obsesión para un simpático y audaz bandido conocido por El Suizo. También interviene en el asunto un japonés llamado Sakura, cuidador del animal. El Suizo, Jack el Negro y Sakura juntan sus fuerzas para rescatar al animal.(n)</desc>
     <credits>
       <director>Sergio Corbucci</director>
       <actor>Giuliano Gemma</actor>
@@ -1489,10 +1489,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919143000 +0200" stop="20230919145500 +0200" channel="[02] LA 2">
+  <programme start="20230919143000 +0200" stop="20230919145500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">El bosque protector</title>
     <sub-title lang="es">Papel y cartón, ciclo de vida</sub-title>
-    <desc lang="es">La industria  del papel supone el 2,1% del PIB español, con una facturación de 23.000 millones de euros. En este capítulo exploramos la situación de esta industria en España, su relación con la gestión forestal así como su alta capacidad de reciclado.</desc>
+    <desc lang="es">La industria  del papel supone el 2,1% del PIB español, con una facturación de 23.000 millones de euros. En este capítulo exploramos la situación de esta industria en España, su relación con la gestión forestal así como su alta capacidad de reciclado.(n)</desc>
     <credits>
       <director>Luis García Esteban</director>
     </credits>
@@ -1510,10 +1510,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919145500 +0200" stop="20230919154500 +0200" channel="[02] LA 2">
+  <programme start="20230919145500 +0200" stop="20230919154500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">El Gran Tour de Bettany Hughes. De Paris a Roma</title>
     <sub-title lang="es">París, annecy y la costa azul</sub-title>
-    <desc lang="es">Bettany Hughes sigue los pasos de los aristócratas del siglo XVIII y realiza un Grand Tour mientras viaja por Francia e Italia para ver cómo los viajes, las artes y la cultura y las mejores comidas pueden enriquecer e inspirar nuestras vidas.</desc>
+    <desc lang="es">Bettany Hughes sigue los pasos de los aristócratas del siglo XVIII y realiza un Grand Tour mientras viaja por Francia e Italia para ver cómo los viajes, las artes y la cultura y las mejores comidas pueden enriquecer e inspirar nuestras vidas.(n)</desc>
     <date>2022</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Salud y bienestar</category>
@@ -1528,9 +1528,9 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919154500 +0200" stop="20230919163000 +0200" channel="[02] LA 2">
+  <programme start="20230919154500 +0200" stop="20230919163000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Saber y ganar</title>
-    <desc lang="es">El concurso, presentado por Jordi Hurtado, es el programa diario con más años de emisión en la historia de la televisión en España. Durante el programa, tres concursantes se enfrentan a diferentes pruebas de conocimientos culturales y de agilidad mental.</desc>
+    <desc lang="es">El concurso, presentado por Jordi Hurtado, es el programa diario con más años de emisión en la historia de la televisión en España. Durante el programa, tres concursantes se enfrentan a diferentes pruebas de conocimientos culturales y de agilidad mental.(n)</desc>
     <credits>
       <director>Sergi Schaaff</director>
     </credits>
@@ -1545,10 +1545,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230919163000 +0200" stop="20230919172000 +0200" channel="[02] LA 2">
+  <programme start="20230919163000 +0200" stop="20230919172000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Namibia la vida en la arena</title>
     <title lang="en">Namibie, la vie des sables</title>
-    <desc lang="es">En el sur de África, Namibia extiende su costa salvaje por más de 1000 kilómetros y contiene vastas y hermosas áreas áridas desérticas. La vida siempre encuentra su camino y estas condiciones austeras no han impedido que la vida silvestre prospere.</desc>
+    <desc lang="es">En el sur de África, Namibia extiende su costa salvaje por más de 1000 kilómetros y contiene vastas y hermosas áreas áridas desérticas. La vida siempre encuentra su camino y estas condiciones austeras no han impedido que la vida silvestre prospere.(n)</desc>
     <credits>
       <director>Franck Decluzet</director>
     </credits>
@@ -1562,9 +1562,9 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230919172000 +0200" stop="20230919181000 +0200" channel="[02] LA 2">
+  <programme start="20230919172000 +0200" stop="20230919181000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Relaciones salvajes</title>
-    <desc lang="es">Las relaciones entre animales salvajes de la misma especie pueden sorprender por su complejidad, intensidad, e incluso por su inesperada violencia. Los alcatraces, el ratón casero, el caimán, el buitre leonado, el oso grizzly o el topi africano, son muestra de ello.</desc>
+    <desc lang="es">Las relaciones entre animales salvajes de la misma especie pueden sorprender por su complejidad, intensidad, e incluso por su inesperada violencia. Los alcatraces, el ratón casero, el caimán, el buitre leonado, el oso grizzly o el topi africano, son muestra de ello.(n)</desc>
     <credits>
       <director>Eduardo Barrachina</director>
     </credits>
@@ -1578,10 +1578,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
     </rating>
   </programme>
-  <programme start="20230919181000 +0200" stop="20230919190500 +0200" channel="[02] LA 2">
+  <programme start="20230919181000 +0200" stop="20230919190500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Grandes misterios de la ciencia</title>
     <sub-title lang="es">Supertormentas solares</sub-title>
-    <desc lang="es">Cuanto más te alejas de la superficie del Sol, más calor hace. Es un misterio que ha perseguido a los científicos durante décadas. Estos últimos años se ha lanzado una flota de nuevas sondas espaciales para averiguar cuándo se producirán nuevas tormentas solares.</desc>
+    <desc lang="es">Cuanto más te alejas de la superficie del Sol, más calor hace. Es un misterio que ha perseguido a los científicos durante décadas. Estos últimos años se ha lanzado una flota de nuevas sondas espaciales para averiguar cuándo se producirán nuevas tormentas solares.(n)</desc>
     <credits>
       <director>Ross Kirby</director>
     </credits>
@@ -1599,10 +1599,10 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919190500 +0200" stop="20230919193000 +0200" channel="[02] LA 2">
+  <programme start="20230919190500 +0200" stop="20230919193000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Arkeo</title>
     <sub-title lang="es">Hegra: Tras la huella de los nabateos</sub-title>
-    <desc lang="es">Viajamos con el arqueólogo Peter Eeckhout para descubrir los sitios arqueológicos más espectaculares del mundo.</desc>
+    <desc lang="es">Viajamos con el arqueólogo Peter Eeckhout para descubrir los sitios arqueológicos más espectaculares del mundo.(n)</desc>
     <date>2016</date>
     <category lang="es">Documentales</category>
     <category lang="es">Historia</category>
@@ -1614,10 +1614,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230919193000 +0200" stop="20230919200000 +0200" channel="[02] LA 2">
+  <programme start="20230919193000 +0200" stop="20230919200000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Detrás del instante</title>
     <sub-title lang="es">Manuel Outumoro</sub-title>
-    <desc lang="es">Recorrido por las grandes figuras y obras de la fotografía en España. Cada capítulo se centra en un fotógrafo español y se fija en las historias de los protagonistas de sus obras.</desc>
+    <desc lang="es">Recorrido por las grandes figuras y obras de la fotografía en España. Cada capítulo se centra en un fotógrafo español y se fija en las historias de los protagonistas de sus obras.(n)</desc>
     <credits>
       <director>Jordi Rovira</director>
       <director>Xavier Baig</director>
@@ -1636,10 +1636,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919200000 +0200" stop="20230919202000 +0200" channel="[02] LA 2">
+  <programme start="20230919200000 +0200" stop="20230919202000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">El bosque protector</title>
     <sub-title lang="es">Arrui: historia de un emigrante</sub-title>
-    <desc lang="es">Serie documental sobre los bosques de España, que tiene como objetivo concienciar de la importancia que han tenido y tienen los bosques en la historia natural, social y económica del país, desde los tiempos más remotos hasta la actualidad, así como del negativo y gravísimo impacto de la acción del hombre sobre su conservación.</desc>
+    <desc lang="es">Serie documental sobre los bosques de España, que tiene como objetivo concienciar de la importancia que han tenido y tienen los bosques en la historia natural, social y económica del país, desde los tiempos más remotos hasta la actualidad, así como del negativo y gravísimo impacto de la acción del hombre sobre su conservación.(n)</desc>
     <credits>
       <director>Luis García Esteban</director>
     </credits>
@@ -1655,10 +1655,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919202000 +0200" stop="20230919210500 +0200" channel="[02] LA 2">
+  <programme start="20230919202000 +0200" stop="20230919210500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">En busca de secretos</title>
     <sub-title lang="es">San Francisco</sub-title>
-    <desc lang="es">Cada gran metrópolis tiene sus secretos, algunos escondidos en los anales de la historia y otros ocultos a plena vista.</desc>
+    <desc lang="es">Cada gran metrópolis tiene sus secretos, algunos escondidos en los anales de la historia y otros ocultos a plena vista.(n)</desc>
     <date>2023</date>
     <category lang="es">Documentales</category>
     <category lang="es">Historia</category>
@@ -1670,11 +1670,11 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-7.svg" />
     </rating>
   </programme>
-  <programme start="20230919210500 +0200" stop="20230919220000 +0200" channel="[02] LA 2">
+  <programme start="20230919210500 +0200" stop="20230919220000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Monumentos de la antigüedad</title>
     <title lang="en">Superestructuras antiguas</title>
     <sub-title lang="es">Museo del Louvre</sub-title>
-    <desc lang="es">En París se encuentra el Palacio del Louvre, el museo más grande del mundo, visitado por más de diez millones de personas cada año. Es uno de los monumentos más famosos del mundo, pero también uno de los más misteriosos y aún oculta numerosos secretos.</desc>
+    <desc lang="es">En París se encuentra el Palacio del Louvre, el museo más grande del mundo, visitado por más de diez millones de personas cada año. Es uno de los monumentos más famosos del mundo, pero también uno de los más misteriosos y aún oculta numerosos secretos.(n)</desc>
     <credits>
       <director>Yann Streff</director>
     </credits>
@@ -1692,10 +1692,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919220000 +0200" stop="20230919224300 +0200" channel="[02] LA 2">
+  <programme start="20230919220000 +0200" stop="20230919224300 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Se ha escrito un crimen</title>
     <sub-title lang="es">Temblores en Aspen</sub-title>
-    <desc lang="es">Jessica intenta desenmascarar al asesino de un amigo íntimo de su difunto marido. Pero el detective privado Charlie Garrett es continuamente, más que una ayuda, un auténtico estorbo.</desc>
+    <desc lang="es">Jessica intenta desenmascarar al asesino de un amigo íntimo de su difunto marido. Pero el detective privado Charlie Garrett es continuamente, más que una ayuda, un auténtico estorbo.(n)</desc>
     <credits>
       <actor>Tom Bosley</actor>
       <actor>Angela Lansbury</actor>
@@ -1714,10 +1714,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919224300 +0200" stop="20230919232700 +0200" channel="[02] LA 2">
+  <programme start="20230919224300 +0200" stop="20230919232700 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Se ha escrito un crimen</title>
     <sub-title lang="es">El secreto de Gila Junction</sub-title>
-    <desc lang="es">Jessica Fletcher está pasando unas vacaciones en Arizona cuando su anfitrión, un guarda forestal de la zona, le pide que le ayude a solucionar un caso de asesinato al que él no encuentra explicación.</desc>
+    <desc lang="es">Jessica Fletcher está pasando unas vacaciones en Arizona cuando su anfitrión, un guarda forestal de la zona, le pide que le ayude a solucionar un caso de asesinato al que él no encuentra explicación.(n)</desc>
     <credits>
       <actor>Tom Bosley</actor>
       <actor>Angela Lansbury</actor>
@@ -1736,10 +1736,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230919232700 +0200" stop="20230920001000 +0200" channel="[02] LA 2">
+  <programme start="20230919232700 +0200" stop="20230920001000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Se ha escrito un crimen</title>
     <sub-title lang="es">El fantasma de Nan (I)</sub-title>
-    <desc lang="es">Jessica está en Irlanda visitando a un buen amigo, el inspector de la policía local. La prometida de éste está preocupada por la gestión de un castillo de su familia convertido en posada.</desc>
+    <desc lang="es">Jessica está en Irlanda visitando a un buen amigo, el inspector de la policía local. La prometida de éste está preocupada por la gestión de un castillo de su familia convertido en posada.(n)</desc>
     <credits>
       <actor>Tom Bosley</actor>
       <actor>Angela Lansbury</actor>
@@ -1758,10 +1758,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920001000 +0200" stop="20230920005400 +0200" channel="[02] LA 2">
+  <programme start="20230920001000 +0200" stop="20230920005400 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Se ha escrito un crimen</title>
     <sub-title lang="es">El fantasma de Nan (II)</sub-title>
-    <desc lang="es">Después de haber sido encerrada toda la noche en la mazmorra del castillo aparentemente encantado, Jessica descubre que los fantasmas en realidad son parte de una amenaza más real.</desc>
+    <desc lang="es">Después de haber sido encerrada toda la noche en la mazmorra del castillo aparentemente encantado, Jessica descubre que los fantasmas en realidad son parte de una amenaza más real.(n)</desc>
     <credits>
       <actor>Tom Bosley</actor>
       <actor>Angela Lansbury</actor>
@@ -1780,10 +1780,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920005400 +0200" stop="20230920013700 +0200" channel="[02] LA 2">
+  <programme start="20230920005400 +0200" stop="20230920013700 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Se ha escrito un crimen</title>
     <sub-title lang="es">Rodando en Roma</sub-title>
-    <desc lang="es">Jessica viaja a Roma para reescribir el guión de una película debido a los problemas financieros que se sufren en el rodaje. La muerte de un especialista desencadena todo tipo de sospechas.</desc>
+    <desc lang="es">Jessica viaja a Roma para reescribir el guión de una película debido a los problemas financieros que se sufren en el rodaje. La muerte de un especialista desencadena todo tipo de sospechas.(n)</desc>
     <credits>
       <actor>Tom Bosley</actor>
       <actor>Angela Lansbury</actor>
@@ -1802,10 +1802,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920013700 +0200" stop="20230920022100 +0200" channel="[02] LA 2">
+  <programme start="20230920013700 +0200" stop="20230920022100 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Se ha escrito un crimen</title>
     <sub-title lang="es">Puja mortal</sub-title>
-    <desc lang="es">Jessica sospecha algo extraño de una subasta cuando se puja una suma muy alta por una mala pintura. El artista es asesinado, y Jessica descubre la venta encubierta de un cuadro mucho más valioso.</desc>
+    <desc lang="es">Jessica sospecha algo extraño de una subasta cuando se puja una suma muy alta por una mala pintura. El artista es asesinado, y Jessica descubre la venta encubierta de un cuadro mucho más valioso.(n)</desc>
     <credits>
       <actor>Tom Bosley</actor>
       <actor>Angela Lansbury</actor>
@@ -1824,10 +1824,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920022100 +0200" stop="20230920030500 +0200" channel="[02] LA 2">
+  <programme start="20230920022100 +0200" stop="20230920030500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Se ha escrito un crimen</title>
     <sub-title lang="es">Fiambre congelado</sub-title>
-    <desc lang="es">Una compañía heladera regentada por dos amigos de Jessica dona una gran cantidad de dinero a una fundación de caridad, pero el dinero desaparece y el contable de la organización es asesinado.</desc>
+    <desc lang="es">Una compañía heladera regentada por dos amigos de Jessica dona una gran cantidad de dinero a una fundación de caridad, pero el dinero desaparece y el contable de la organización es asesinado.(n)</desc>
     <credits>
       <actor>Tom Bosley</actor>
       <actor>Angela Lansbury</actor>
@@ -1846,10 +1846,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920030500 +0200" stop="20230920041000 +0200" channel="[02] LA 2">
+  <programme start="20230920030500 +0200" stop="20230920041000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Festivales de verano</title>
     <sub-title lang="es">10º Flamenco On Fire</sub-title>
-    <desc lang="es">Un recorrido por los certámenes musicales españoles más destacados de este verano, como el FIB o el San Miguel Primavera Sound, así como las más destacadas citas de blues y jazz como el Continental Latin Jazz o el Festival Blues de Cazorla.</desc>
+    <desc lang="es">Un recorrido por los certámenes musicales españoles más destacados de este verano, como el FIB o el San Miguel Primavera Sound, así como las más destacadas citas de blues y jazz como el Continental Latin Jazz o el Festival Blues de Cazorla.(n)</desc>
     <date>2023</date>
     <category lang="es">Música</category>
     <category lang="es">Concierto</category>
@@ -1861,10 +1861,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230920041000 +0200" stop="20230920050500 +0200" channel="[02] LA 2">
+  <programme start="20230920041000 +0200" stop="20230920050500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Grandes misterios de la ciencia</title>
     <sub-title lang="es">El lado oculto de la Luna</sub-title>
-    <desc lang="es">La Luna tiene un lado oculto a la vista. Y es sorprendentemente diferente: montañoso, con profundos cráteres, y una corteza más gruesa. Ahora, los científicos intentan averiguar por qué el lado visible de la Luna es totalmente distinto al que nunca vemos.</desc>
+    <desc lang="es">La Luna tiene un lado oculto a la vista. Y es sorprendentemente diferente: montañoso, con profundos cráteres, y una corteza más gruesa. Ahora, los científicos intentan averiguar por qué el lado visible de la Luna es totalmente distinto al que nunca vemos.(n)</desc>
     <credits>
       <director>Ross Kirby</director>
     </credits>
@@ -1882,9 +1882,9 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920050500 +0200" stop="20230920060500 +0200" channel="[02] LA 2">
+  <programme start="20230920050500 +0200" stop="20230920060500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">La aventura del saber</title>
-    <desc lang="es">Programa diario matinal destinado a la formación educativa y la divulgación mediante entrevistas y series documentales. Coproducido por RTVE y el Ministerio de Educación, se trata de uno de los espacios más veteranos de la cadena, con más de 21 años en antena.</desc>
+    <desc lang="es">Programa diario matinal destinado a la formación educativa y la divulgación mediante entrevistas y series documentales. Coproducido por RTVE y el Ministerio de Educación, se trata de uno de los espacios más veteranos de la cadena, con más de 21 años en antena.(n)</desc>
     <date>2023</date>
     <category lang="es">Cultural/Educativo</category>
     <category lang="es">Programa</category>
@@ -1896,10 +1896,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230920060500 +0200" stop="20230920065500 +0200" channel="[02] LA 2">
+  <programme start="20230920060500 +0200" stop="20230920065500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Casos abiertos de la historia</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">Serie documental que examina los principales casos de asesinato de la historia y los vuelve a contar a modo de thriller. Cientos, incluso miles de años después, estos casos sin resolver se están reabriendo con la ayuda de la ciencia forense moderna.</desc>
+    <desc lang="es">Serie documental que examina los principales casos de asesinato de la historia y los vuelve a contar a modo de thriller. Cientos, incluso miles de años después, estos casos sin resolver se están reabriendo con la ayuda de la ciencia forense moderna.(n)</desc>
     <date>2021</date>
     <category lang="es">Documentales</category>
     <category lang="es">Historia</category>
@@ -1914,10 +1914,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920070000 +0200" stop="20230920072500 +0200" channel="[02] LA 2">
+  <programme start="20230920070000 +0200" stop="20230920072500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Inglés Online</title>
     <title lang="en">TEMPORADA 22/23</title>
-    <desc lang="es">Curso de inglés de Televisión Española para hisponoparlantes.</desc>
+    <desc lang="es">Curso de inglés de Televisión Española para hisponoparlantes.(n)</desc>
     <date>2022</date>
     <category lang="es">Cultural/Educativo</category>
     <category lang="es">Programa</category>
@@ -1931,10 +1931,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920072500 +0200" stop="20230920075000 +0200" channel="[02] LA 2">
+  <programme start="20230920072500 +0200" stop="20230920075000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Flash Moda</title>
     <title lang="en">TEMPORADA 2023</title>
-    <desc lang="es">La cadena pública desfila por la pasarela de la mano de Nieves Álvarez en este repaso a las novedades del mundo de la moda, las últimas tendencias y las colecciones de vanguardia. Además, el programa presta especial atención al trabajo de los diseñadores españoles.</desc>
+    <desc lang="es">La cadena pública desfila por la pasarela de la mano de Nieves Álvarez en este repaso a las novedades del mundo de la moda, las últimas tendencias y las colecciones de vanguardia. Además, el programa presta especial atención al trabajo de los diseñadores españoles.(n)</desc>
     <credits>
       <director>Jesús María Montes-Fernández</director>
     </credits>
@@ -1951,10 +1951,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920075000 +0200" stop="20230920084000 +0200" channel="[02] LA 2">
+  <programme start="20230920075000 +0200" stop="20230920084000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Ingeniería antigua</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">Estamos rodeados de increíbles hitos de ingeniería que no dejan de superar los límites de lo posible. Ciudades gigantescas, increíbles infraestructuras e ingeniosos inventos. Para llegar a esas vertiginosas alturas, la tecnología actual se basa en los logros que consiguieron los antiguos ingenieros. ¿Cómo las antiguas civilizaciones pudieron construir a tal escala? Este documental muestra las hazañas de la ingeniería del mundo antiguo que ha inspirado e influido en el mundo moderno.</desc>
+    <desc lang="es">Estamos rodeados de increíbles hitos de ingeniería que no dejan de superar los límites de lo posible. Ciudades gigantescas, increíbles infraestructuras e ingeniosos inventos. Para llegar a esas vertiginosas alturas, la tecnología actual se basa en los logros que consiguieron los antiguos ingenieros. ¿Cómo las antiguas civilizaciones pudieron construir a tal escala? Este documental muestra las hazañas de la ingeniería del mundo antiguo que ha inspirado e influido en el mundo moderno.(n)</desc>
     <date>2021</date>
     <category lang="es">Documentales</category>
     <category lang="es">Historia</category>
@@ -1969,10 +1969,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920084000 +0200" stop="20230920091500 +0200" channel="[02] LA 2">
+  <programme start="20230920084000 +0200" stop="20230920091500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Urbanitas por el campo</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">Espacio que da a conocer como se desenvuelve un grupo de habitantes de la gran ciudad en un ambiente rural. El programa muestra a estas personas, con un estilo de vida típicamente urbano, rodeados de naturaleza y desarrollando labores agrícolas y ganaderas.</desc>
+    <desc lang="es">Espacio que da a conocer como se desenvuelve un grupo de habitantes de la gran ciudad en un ambiente rural. El programa muestra a estas personas, con un estilo de vida típicamente urbano, rodeados de naturaleza y desarrollando labores agrícolas y ganaderas.(n)</desc>
     <date>2015</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Programa</category>
@@ -1987,9 +1987,9 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920091500 +0200" stop="20230920101500 +0200" channel="[02] LA 2">
+  <programme start="20230920091500 +0200" stop="20230920101500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Perú Sabe: La cocina, arma social</title>
-    <desc lang="es">El chef español Ferran Adriá se une a Gastón Acurio para contarle al mundo el fenómeno que ha provocado que en Perú miles de jóvenes prefieran ser cocineros antes que futbolistas.</desc>
+    <desc lang="es">El chef español Ferran Adriá se une a Gastón Acurio para contarle al mundo el fenómeno que ha provocado que en Perú miles de jóvenes prefieran ser cocineros antes que futbolistas.(n)</desc>
     <credits>
       <director>Jesús María Santos</director>
     </credits>
@@ -2006,10 +2006,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920101500 +0200" stop="20230920111500 +0200" channel="[02] LA 2">
+  <programme start="20230920101500 +0200" stop="20230920111500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Las rutas D'Ambrosio</title>
     <title lang="en">TEMPORADA 5</title>
-    <desc lang="es">El chef Gonzalo D'Ambrosio adentra al espectador en el mundo de la gastronomía a través de los productos autóctonos de las comarcas que visita.</desc>
+    <desc lang="es">El chef Gonzalo D'Ambrosio adentra al espectador en el mundo de la gastronomía a través de los productos autóctonos de las comarcas que visita.(n)</desc>
     <credits>
       <director>Nahúm Varas</director>
     </credits>
@@ -2024,10 +2024,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230920111500 +0200" stop="20230920114000 +0200" channel="[02] LA 2">
+  <programme start="20230920111500 +0200" stop="20230920114000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Diario de un nómada</title>
     <title lang="en">TEMPORADA 6</title>
-    <desc lang="es">En esta sexta temporada, Miquel Silvestre recorrerá los restos del imperio de la revolución soviética y seguirá las huellas de los exploradores españoles olvidados en Europa y Asia Central.</desc>
+    <desc lang="es">En esta sexta temporada, Miquel Silvestre recorrerá los restos del imperio de la revolución soviética y seguirá las huellas de los exploradores españoles olvidados en Europa y Asia Central.(n)</desc>
     <date>2017</date>
     <category lang="es">Documentales</category>
     <category lang="es">Viajes</category>
@@ -2043,10 +2043,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920114000 +0200" stop="20230920123500 +0200" channel="[02] LA 2">
+  <programme start="20230920114000 +0200" stop="20230920123500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Descubrir</title>
     <title lang="en">TEMPORADA 2</title>
-    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.</desc>
+    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.(n)</desc>
     <credits>
       <director>Jesús Del Caso</director>
     </credits>
@@ -2065,9 +2065,9 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920123500 +0200" stop="20230920142000 +0200" channel="[02] LA 2">
+  <programme start="20230920123500 +0200" stop="20230920142000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.</desc>
+    <desc lang="es">Emisión de una película.(n)</desc>
     <category lang="es">Cine</category>
     <category lang="es">Otros</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2P1673189" />
@@ -2079,9 +2079,9 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920142000 +0200" stop="20230920163000 +0200" channel="[02] LA 2">
+  <programme start="20230920142000 +0200" stop="20230920163000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Programa por determinar</title>
-    <desc lang="es">Programa por determinar.</desc>
+    <desc lang="es">Programa por determinar.(n)</desc>
     <date>2023</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Otros</category>
@@ -2095,10 +2095,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920163000 +0200" stop="20230920171500 +0200" channel="[02] LA 2">
+  <programme start="20230920163000 +0200" stop="20230920171500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Saber y ganar</title>
     <title lang="en">TEMPORADA 2023</title>
-    <desc lang="es">El concurso, presentado por Jordi Hurtado, es el programa diario con más años de emisión en la historia de la televisión en España. Durante el programa, tres concursantes se enfrentan a diferentes pruebas de conocimientos culturales y de agilidad mental.</desc>
+    <desc lang="es">El concurso, presentado por Jordi Hurtado, es el programa diario con más años de emisión en la historia de la televisión en España. Durante el programa, tres concursantes se enfrentan a diferentes pruebas de conocimientos culturales y de agilidad mental.(n)</desc>
     <credits>
       <director>Sergi Schaaff</director>
     </credits>
@@ -2115,10 +2115,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920171500 +0200" stop="20230920180500 +0200" channel="[02] LA 2">
+  <programme start="20230920171500 +0200" stop="20230920180500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Animal Einsteins</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">La naturaleza es un mundo difícil y está cambiando más rápido que nunca. Para sobrevivir, los animales han evolucionado y se han adaptado de forma extraordinariamente inteligente, adquiriendo una sorprendente variedad de talentos y habilidades.</desc>
+    <desc lang="es">La naturaleza es un mundo difícil y está cambiando más rápido que nunca. Para sobrevivir, los animales han evolucionado y se han adaptado de forma extraordinariamente inteligente, adquiriendo una sorprendente variedad de talentos y habilidades.(n)</desc>
     <credits>
       <director>Andrew Liebman</director>
       <writer>Andrew Liebman</writer>
@@ -2137,10 +2137,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920180500 +0200" stop="20230920185500 +0200" channel="[02] LA 2">
+  <programme start="20230920180500 +0200" stop="20230920185500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Planeta mediterráneo</title>
     <title lang="en">Planète Méditerranée</title>
-    <desc lang="es">Uno de los objetivos de la misión Gombessa V es obtener una primera evaluación de la biodiversidad y el estado del agua de la zona de penumbra (profundidad de unos 100 metros).</desc>
+    <desc lang="es">Uno de los objetivos de la misión Gombessa V es obtener una primera evaluación de la biodiversidad y el estado del agua de la zona de penumbra (profundidad de unos 100 metros).(n)</desc>
     <credits>
       <director>Gil Kebaili</director>
       <writer>Gil Kebaili</writer>
@@ -2160,10 +2160,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920185500 +0200" stop="20230920194500 +0200" channel="[02] LA 2">
+  <programme start="20230920185500 +0200" stop="20230920194500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Descubrir</title>
     <title lang="en">TEMPORADA 2</title>
-    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.</desc>
+    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.(n)</desc>
     <credits>
       <director>Jesús Del Caso</director>
     </credits>
@@ -2182,10 +2182,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920194500 +0200" stop="20230920204500 +0200" channel="[02] LA 2">
+  <programme start="20230920194500 +0200" stop="20230920204500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Las rutas D'Ambrosio</title>
     <title lang="en">TEMPORADA 5</title>
-    <desc lang="es">El chef Gonzalo D'Ambrosio adentra al espectador en el mundo de la gastronomía a través de los productos autóctonos de las comarcas que visita.</desc>
+    <desc lang="es">El chef Gonzalo D'Ambrosio adentra al espectador en el mundo de la gastronomía a través de los productos autóctonos de las comarcas que visita.(n)</desc>
     <credits>
       <director>Nahúm Varas</director>
     </credits>
@@ -2200,10 +2200,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230920204500 +0200" stop="20230920211500 +0200" channel="[02] LA 2">
+  <programme start="20230920204500 +0200" stop="20230920211500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Visítame en un día</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">Diana Dzhalalova propone visitar los lugares más importantes de una ciudad en un solo día.</desc>
+    <desc lang="es">Diana Dzhalalova propone visitar los lugares más importantes de una ciudad en un solo día.(n)</desc>
     <credits>
       <director>Alexey Motorin</director>
     </credits>
@@ -2221,10 +2221,10 @@
       <value>2.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230920211500 +0200" stop="20230920213700 +0200" channel="[02] LA 2">
+  <programme start="20230920211500 +0200" stop="20230920213700 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Nunca es demasiado pequeño</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.</desc>
+    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.(n)</desc>
     <credits>
       <director>Mason Mirabile</director>
       <writer>Mason Mirabile</writer>
@@ -2240,10 +2240,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230920213700 +0200" stop="20230920220000 +0200" channel="[02] LA 2">
+  <programme start="20230920213700 +0200" stop="20230920220000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Nunca es demasiado pequeño</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.</desc>
+    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.(n)</desc>
     <credits>
       <director>Mason Mirabile</director>
       <writer>Mason Mirabile</writer>
@@ -2259,10 +2259,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230920220000 +0200" stop="20230920224400 +0200" channel="[02] LA 2">
+  <programme start="20230920220000 +0200" stop="20230920224400 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Isabel I e Isabel II</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">Dos de las monarcas más emblemáticas de Gran Bretaña son puestas una frente a la otra para ver si, a pesar de los siglos de diferencia, comparten alguna sorprendente similitud.</desc>
+    <desc lang="es">Dos de las monarcas más emblemáticas de Gran Bretaña son puestas una frente a la otra para ver si, a pesar de los siglos de diferencia, comparten alguna sorprendente similitud.(n)</desc>
     <credits>
       <director>Sam Taplin</director>
     </credits>
@@ -2277,10 +2277,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230920224400 +0200" stop="20230920232800 +0200" channel="[02] LA 2">
+  <programme start="20230920224400 +0200" stop="20230920232800 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Isabel I e Isabel II</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">Dos de las monarcas más emblemáticas de Gran Bretaña son puestas una frente a la otra para ver si, a pesar de los siglos de diferencia, comparten alguna sorprendente similitud.</desc>
+    <desc lang="es">Dos de las monarcas más emblemáticas de Gran Bretaña son puestas una frente a la otra para ver si, a pesar de los siglos de diferencia, comparten alguna sorprendente similitud.(n)</desc>
     <credits>
       <director>Sam Taplin</director>
     </credits>
@@ -2295,10 +2295,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230920232800 +0200" stop="20230921005500 +0200" channel="[02] LA 2">
+  <programme start="20230920232800 +0200" stop="20230921005500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Isabel y Margarita: Amor y lealtad</title>
     <title lang="en">Elizabeth and Margaret: Love and Loyalty</title>
-    <desc lang="es">Un apasionante relato biográfico de Isabel y Margarita de Inglaterra, dos hermanas que se apoyaron durante toda la vida. Su lealtad, a pesar de las crisis y los altibajos, les llevó a seguir siendo por siempre mejores amigas.</desc>
+    <desc lang="es">Un apasionante relato biográfico de Isabel y Margarita de Inglaterra, dos hermanas que se apoyaron durante toda la vida. Su lealtad, a pesar de las crisis y los altibajos, les llevó a seguir siendo por siempre mejores amigas.(n)</desc>
     <date>2020</date>
     <category lang="es">Documentales</category>
     <category lang="es">Historia</category>
@@ -2308,10 +2308,10 @@
       <value>4.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921005500 +0200" stop="20230921014000 +0200" channel="[02] LA 2">
+  <programme start="20230921005500 +0200" stop="20230921014000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">La reina y sus primeros ministros</title>
     <title lang="en">The Queen and Her Prime Ministers</title>
-    <desc lang="es">Hace casi 70 años la reina llegó al trono y Churchill, su primer ministro, fue fundamental para ella y marcó su futura relación con los sucesores del cargo. Sus audiencias con el primer ministro son semanales y privadas pero no todos han respetado esta confidencialidad.</desc>
+    <desc lang="es">Hace casi 70 años la reina llegó al trono y Churchill, su primer ministro, fue fundamental para ella y marcó su futura relación con los sucesores del cargo. Sus audiencias con el primer ministro son semanales y privadas pero no todos han respetado esta confidencialidad.(n)</desc>
     <date>2012</date>
     <category lang="es">Documentales</category>
     <category lang="es">Historia</category>
@@ -2325,10 +2325,10 @@
       <value>2.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921014000 +0200" stop="20230921024500 +0200" channel="[02] LA 2">
+  <programme start="20230921014000 +0200" stop="20230921024500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Documentos TV</title>
     <title lang="en">TEMPORADA 21/22</title>
-    <desc lang="es">Espacio que trata en profundidad tanto temas de actualidad como procesos sociales e históricos de mayor duración temporal. Estrenado en 1986, es uno de los programas más prestigiosos de TVE y se ha caracterizado durante todo este tiempo por el rigor y la profundidad.</desc>
+    <desc lang="es">Espacio que trata en profundidad tanto temas de actualidad como procesos sociales e históricos de mayor duración temporal. Estrenado en 1986, es uno de los programas más prestigiosos de TVE y se ha caracterizado durante todo este tiempo por el rigor y la profundidad.(n)</desc>
     <date>2021</date>
     <category lang="es">Información</category>
     <category lang="es">Reportajes de actualidad</category>
@@ -2342,10 +2342,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921024500 +0200" stop="20230921033500 +0200" channel="[02] LA 2">
+  <programme start="20230921024500 +0200" stop="20230921033500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Festivales de verano</title>
     <title lang="en">TEMPORADA 2023</title>
-    <desc lang="es">Un recorrido por los certámenes musicales españoles más destacados de este verano, como el FIB o el San Miguel Primavera Sound, así como las más destacadas citas de blues y jazz como el Continental Latin Jazz o el Festival Blues de Cazorla.</desc>
+    <desc lang="es">Un recorrido por los certámenes musicales españoles más destacados de este verano, como el FIB o el San Miguel Primavera Sound, así como las más destacadas citas de blues y jazz como el Continental Latin Jazz o el Festival Blues de Cazorla.(n)</desc>
     <date>2023</date>
     <category lang="es">Música</category>
     <category lang="es">Concierto</category>
@@ -2356,10 +2356,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230921033500 +0200" stop="20230921035700 +0200" channel="[02] LA 2">
+  <programme start="20230921033500 +0200" stop="20230921035700 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Nunca es demasiado pequeño</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.</desc>
+    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.(n)</desc>
     <credits>
       <director>Mason Mirabile</director>
       <writer>Mason Mirabile</writer>
@@ -2375,10 +2375,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230921035700 +0200" stop="20230921042000 +0200" channel="[02] LA 2">
+  <programme start="20230921035700 +0200" stop="20230921042000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Nunca es demasiado pequeño</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.</desc>
+    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.(n)</desc>
     <credits>
       <director>Mason Mirabile</director>
       <writer>Mason Mirabile</writer>
@@ -2394,10 +2394,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230921042000 +0200" stop="20230921051000 +0200" channel="[02] LA 2">
+  <programme start="20230921042000 +0200" stop="20230921051000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Descubrir</title>
     <title lang="en">TEMPORADA 2</title>
-    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.</desc>
+    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.(n)</desc>
     <credits>
       <director>Jesús Del Caso</director>
     </credits>
@@ -2416,10 +2416,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921051000 +0200" stop="20230921060000 +0200" channel="[02] LA 2">
+  <programme start="20230921051000 +0200" stop="20230921060000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Animal Einsteins</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">La naturaleza es un mundo difícil y está cambiando más rápido que nunca. Para sobrevivir, los animales han evolucionado y se han adaptado de forma extraordinariamente inteligente, adquiriendo una sorprendente variedad de talentos y habilidades.</desc>
+    <desc lang="es">La naturaleza es un mundo difícil y está cambiando más rápido que nunca. Para sobrevivir, los animales han evolucionado y se han adaptado de forma extraordinariamente inteligente, adquiriendo una sorprendente variedad de talentos y habilidades.(n)</desc>
     <credits>
       <director>Andrew Liebman</director>
       <writer>Andrew Liebman</writer>
@@ -2438,10 +2438,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921060000 +0200" stop="20230921065500 +0200" channel="[02] LA 2">
+  <programme start="20230921060000 +0200" stop="20230921065500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Las rutas D'Ambrosio</title>
     <title lang="en">TEMPORADA 5</title>
-    <desc lang="es">El chef Gonzalo D'Ambrosio adentra al espectador en el mundo de la gastronomía a través de los productos autóctonos de las comarcas que visita.</desc>
+    <desc lang="es">El chef Gonzalo D'Ambrosio adentra al espectador en el mundo de la gastronomía a través de los productos autóctonos de las comarcas que visita.(n)</desc>
     <credits>
       <director>Nahúm Varas</director>
     </credits>
@@ -2456,10 +2456,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230921070000 +0200" stop="20230921072500 +0200" channel="[02] LA 2">
+  <programme start="20230921070000 +0200" stop="20230921072500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Inglés Online</title>
     <title lang="en">TEMPORADA 22/23</title>
-    <desc lang="es">Curso de inglés de Televisión Española para hisponoparlantes.</desc>
+    <desc lang="es">Curso de inglés de Televisión Española para hisponoparlantes.(n)</desc>
     <date>2022</date>
     <category lang="es">Cultural/Educativo</category>
     <category lang="es">Programa</category>
@@ -2473,9 +2473,9 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921072500 +0200" stop="20230921080000 +0200" channel="[02] LA 2">
+  <programme start="20230921072500 +0200" stop="20230921080000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Zoom tendencias</title>
-    <desc lang="es">Espacio semanal dedicado a destacar y analizar el estilo de vida actual proponiendo reportajes de interiorismo, moda, restauración o cosmética. Aquellas tendencias que marcan la forma de ser hoy en día, serán tratadas en el programa.</desc>
+    <desc lang="es">Espacio semanal dedicado a destacar y analizar el estilo de vida actual proponiendo reportajes de interiorismo, moda, restauración o cosmética. Aquellas tendencias que marcan la forma de ser hoy en día, serán tratadas en el programa.(n)</desc>
     <date>2017</date>
     <category lang="es">Ocio y Aficiones</category>
     <category lang="es">Otros</category>
@@ -2489,10 +2489,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921080000 +0200" stop="20230921085000 +0200" channel="[02] LA 2">
+  <programme start="20230921080000 +0200" stop="20230921085000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Ingeniería antigua</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">Estamos rodeados de increíbles hitos de ingeniería que no dejan de superar los límites de lo posible. Ciudades gigantescas, increíbles infraestructuras e ingeniosos inventos. Para llegar a esas vertiginosas alturas, la tecnología actual se basa en los logros que consiguieron los antiguos ingenieros. ¿Cómo las antiguas civilizaciones pudieron construir a tal escala? Este documental muestra las hazañas de la ingeniería del mundo antiguo que ha inspirado e influido en el mundo moderno.</desc>
+    <desc lang="es">Estamos rodeados de increíbles hitos de ingeniería que no dejan de superar los límites de lo posible. Ciudades gigantescas, increíbles infraestructuras e ingeniosos inventos. Para llegar a esas vertiginosas alturas, la tecnología actual se basa en los logros que consiguieron los antiguos ingenieros. ¿Cómo las antiguas civilizaciones pudieron construir a tal escala? Este documental muestra las hazañas de la ingeniería del mundo antiguo que ha inspirado e influido en el mundo moderno.(n)</desc>
     <date>2021</date>
     <category lang="es">Documentales</category>
     <category lang="es">Historia</category>
@@ -2507,10 +2507,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921085000 +0200" stop="20230921092000 +0200" channel="[02] LA 2">
+  <programme start="20230921085000 +0200" stop="20230921092000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Pueblo de Dios</title>
     <title lang="en">TEMPORADA 19/20</title>
-    <desc lang="es">Programa religioso que ofrece reportajes sobre el trabajo que realizan las ONG o comunidades religiosas en España y en el mundo. Retrata los proyectos que se desarrollan en el campo de la educación y la salud para ayudar a las capas sociales más necesitadas.</desc>
+    <desc lang="es">Programa religioso que ofrece reportajes sobre el trabajo que realizan las ONG o comunidades religiosas en España y en el mundo. Retrata los proyectos que se desarrollan en el campo de la educación y la salud para ayudar a las capas sociales más necesitadas.(n)</desc>
     <credits>
       <director>Julián Del Olmo</director>
     </credits>
@@ -2527,10 +2527,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921092000 +0200" stop="20230921104000 +0200" channel="[02] LA 2">
+  <programme start="20230921092000 +0200" stop="20230921104000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">U- Topos.. La Utopía Guaraní-Jesuítica.</title>
     <title lang="en">U- Topos. (No Lugar). La Utopía Guaraní-Jesuítica</title>
-    <desc lang="es">El humanismo renacentista y los debates que  proclamaban los derechos de los indios, propician la creación de comunidades casi utópicas entre guaraníes y jesuitas.</desc>
+    <desc lang="es">El humanismo renacentista y los debates que  proclamaban los derechos de los indios, propician la creación de comunidades casi utópicas entre guaraníes y jesuitas.(n)</desc>
     <credits>
       <director>Vicente Pérez Herrero</director>
     </credits>
@@ -2547,10 +2547,10 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921104000 +0200" stop="20230921113500 +0200" channel="[02] LA 2">
+  <programme start="20230921104000 +0200" stop="20230921113500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Las rutas D'Ambrosio</title>
     <title lang="en">TEMPORADA 5</title>
-    <desc lang="es">El chef Gonzalo D'Ambrosio adentra al espectador en el mundo de la gastronomía a través de los productos autóctonos de las comarcas que visita.</desc>
+    <desc lang="es">El chef Gonzalo D'Ambrosio adentra al espectador en el mundo de la gastronomía a través de los productos autóctonos de las comarcas que visita.(n)</desc>
     <credits>
       <director>Nahúm Varas</director>
     </credits>
@@ -2565,10 +2565,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230921113500 +0200" stop="20230921121000 +0200" channel="[02] LA 2">
+  <programme start="20230921113500 +0200" stop="20230921121000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Diario de un nómada</title>
     <title lang="en">TEMPORADA 6</title>
-    <desc lang="es">En esta sexta temporada, Miquel Silvestre recorrerá los restos del imperio de la revolución soviética y seguirá las huellas de los exploradores españoles olvidados en Europa y Asia Central.</desc>
+    <desc lang="es">En esta sexta temporada, Miquel Silvestre recorrerá los restos del imperio de la revolución soviética y seguirá las huellas de los exploradores españoles olvidados en Europa y Asia Central.(n)</desc>
     <date>2017</date>
     <category lang="es">Documentales</category>
     <category lang="es">Viajes</category>
@@ -2584,10 +2584,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921121000 +0200" stop="20230921130500 +0200" channel="[02] LA 2">
+  <programme start="20230921121000 +0200" stop="20230921130500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Siete mundos, un planeta</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">Hace millones de años, fuerzas increíbles destrozaron la corteza terrestre creando los continentes, cada uno con su propio clima, fauna y flora. Y son estas diferencias las que hacen de nuestro planeta un lugar increíble. De los áridos desiertos a los glaciares helados, de la exuberancia de las selvas a las áridas estepas.</desc>
+    <desc lang="es">Hace millones de años, fuerzas increíbles destrozaron la corteza terrestre creando los continentes, cada uno con su propio clima, fauna y flora. Y son estas diferencias las que hacen de nuestro planeta un lugar increíble. De los áridos desiertos a los glaciares helados, de la exuberancia de las selvas a las áridas estepas.(n)</desc>
     <credits>
       <producer>Scott Alexander</producer>
     </credits>
@@ -2605,9 +2605,9 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921130500 +0200" stop="20230921143000 +0200" channel="[02] LA 2">
+  <programme start="20230921130500 +0200" stop="20230921143000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.</desc>
+    <desc lang="es">Emisión de una película.(n)</desc>
     <category lang="es">Cine</category>
     <category lang="es">Otros</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2P1673189" />
@@ -2619,10 +2619,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921143000 +0200" stop="20230921153000 +0200" channel="[02] LA 2">
+  <programme start="20230921143000 +0200" stop="20230921153000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Descubrir</title>
     <title lang="en">TEMPORADA 2</title>
-    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.</desc>
+    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.(n)</desc>
     <credits>
       <director>Jesús Del Caso</director>
     </credits>
@@ -2641,10 +2641,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921153000 +0200" stop="20230921161500 +0200" channel="[02] LA 2">
+  <programme start="20230921153000 +0200" stop="20230921161500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Saber y ganar</title>
     <title lang="en">TEMPORADA 2023</title>
-    <desc lang="es">El concurso, presentado por Jordi Hurtado, es el programa diario con más años de emisión en la historia de la televisión en España. Durante el programa, tres concursantes se enfrentan a diferentes pruebas de conocimientos culturales y de agilidad mental.</desc>
+    <desc lang="es">El concurso, presentado por Jordi Hurtado, es el programa diario con más años de emisión en la historia de la televisión en España. Durante el programa, tres concursantes se enfrentan a diferentes pruebas de conocimientos culturales y de agilidad mental.(n)</desc>
     <credits>
       <director>Sergi Schaaff</director>
     </credits>
@@ -2661,10 +2661,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921161500 +0200" stop="20230921181500 +0200" channel="[02] LA 2">
+  <programme start="20230921161500 +0200" stop="20230921181500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Vuelta ciclista a España</title>
     <title lang="en">TEMPORADA 2023</title>
-    <desc lang="es">El ciclismo completa el calendario 2023 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 26 de agosto en Barcelona. La meta final, el 17 de septiembre, se cruzará en Madrid. El belga Remco Evenepoel fue el vencedor en 2022.</desc>
+    <desc lang="es">El ciclismo completa el calendario 2023 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 26 de agosto en Barcelona. La meta final, el 17 de septiembre, se cruzará en Madrid. El belga Remco Evenepoel fue el vencedor en 2022.(n)</desc>
     <date>2023</date>
     <category lang="es">Deportes</category>
     <category lang="es">Ciclismo</category>
@@ -2674,10 +2674,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921181500 +0200" stop="20230921190000 +0200" channel="[02] LA 2">
+  <programme start="20230921181500 +0200" stop="20230921190000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Animal Einsteins</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">La naturaleza es un mundo difícil y está cambiando más rápido que nunca. Para sobrevivir, los animales han evolucionado y se han adaptado de forma extraordinariamente inteligente, adquiriendo una sorprendente variedad de talentos y habilidades.</desc>
+    <desc lang="es">La naturaleza es un mundo difícil y está cambiando más rápido que nunca. Para sobrevivir, los animales han evolucionado y se han adaptado de forma extraordinariamente inteligente, adquiriendo una sorprendente variedad de talentos y habilidades.(n)</desc>
     <credits>
       <director>Andrew Liebman</director>
       <writer>Andrew Liebman</writer>
@@ -2696,10 +2696,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921190000 +0200" stop="20230921195500 +0200" channel="[02] LA 2">
+  <programme start="20230921190000 +0200" stop="20230921195500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Descubrir</title>
     <title lang="en">TEMPORADA 2</title>
-    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.</desc>
+    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.(n)</desc>
     <credits>
       <director>Jesús Del Caso</director>
     </credits>
@@ -2718,10 +2718,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921195500 +0200" stop="20230921205000 +0200" channel="[02] LA 2">
+  <programme start="20230921195500 +0200" stop="20230921205000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Las rutas D'Ambrosio</title>
     <title lang="en">TEMPORADA 5</title>
-    <desc lang="es">El chef Gonzalo D'Ambrosio adentra al espectador en el mundo de la gastronomía a través de los productos autóctonos de las comarcas que visita.</desc>
+    <desc lang="es">El chef Gonzalo D'Ambrosio adentra al espectador en el mundo de la gastronomía a través de los productos autóctonos de las comarcas que visita.(n)</desc>
     <credits>
       <director>Nahúm Varas</director>
     </credits>
@@ -2736,10 +2736,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230921205000 +0200" stop="20230921211500 +0200" channel="[02] LA 2">
+  <programme start="20230921205000 +0200" stop="20230921211500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Visítame en un día</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">Diana Dzhalalova propone visitar los lugares más importantes de una ciudad en un solo día.</desc>
+    <desc lang="es">Diana Dzhalalova propone visitar los lugares más importantes de una ciudad en un solo día.(n)</desc>
     <credits>
       <director>Alexey Motorin</director>
     </credits>
@@ -2757,10 +2757,10 @@
       <value>2.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921211500 +0200" stop="20230921213700 +0200" channel="[02] LA 2">
+  <programme start="20230921211500 +0200" stop="20230921213700 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Nunca es demasiado pequeño</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.</desc>
+    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.(n)</desc>
     <credits>
       <director>Mason Mirabile</director>
       <writer>Mason Mirabile</writer>
@@ -2776,10 +2776,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230921213700 +0200" stop="20230921220000 +0200" channel="[02] LA 2">
+  <programme start="20230921213700 +0200" stop="20230921220000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Nunca es demasiado pequeño</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.</desc>
+    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.(n)</desc>
     <credits>
       <director>Mason Mirabile</director>
       <writer>Mason Mirabile</writer>
@@ -2795,10 +2795,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230921220000 +0200" stop="20230921225600 +0200" channel="[02] LA 2">
+  <programme start="20230921220000 +0200" stop="20230921225600 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Curro Jiménez</title>
     <title lang="en">TEMPORADA 3</title>
-    <desc lang="es">Serie basada en el bandolerismo andaluz del siglo XIX, cuya acción se desarrolla en la Serranía de Ronda. El protagonista es el bandolero Curro Jiménez, personaje imaginario que da vida al prototipo, ya legendario, del bandolero andaluz, noble, valeroso y aventurero. Junto a él, está su inseparable banda, compuesta principalmente por ''El estudiante'', ''El algarrobo'' y ''El gitano''.</desc>
+    <desc lang="es">Serie basada en el bandolerismo andaluz del siglo XIX, cuya acción se desarrolla en la Serranía de Ronda. El protagonista es el bandolero Curro Jiménez, personaje imaginario que da vida al prototipo, ya legendario, del bandolero andaluz, noble, valeroso y aventurero. Junto a él, está su inseparable banda, compuesta principalmente por ''El estudiante'', ''El algarrobo'' y ''El gitano''.(n)</desc>
     <credits>
       <actor>José Sancho</actor>
       <actor>Francisco Algora</actor>
@@ -2819,10 +2819,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921225600 +0200" stop="20230921235200 +0200" channel="[02] LA 2">
+  <programme start="20230921225600 +0200" stop="20230921235200 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Curro Jiménez</title>
     <title lang="en">TEMPORADA 3</title>
-    <desc lang="es">Serie basada en el bandolerismo andaluz del siglo XIX, cuya acción se desarrolla en la Serranía de Ronda. El protagonista es el bandolero Curro Jiménez, personaje imaginario que da vida al prototipo, ya legendario, del bandolero andaluz, noble, valeroso y aventurero. Junto a él, está su inseparable banda, compuesta principalmente por ''El estudiante'', ''El algarrobo'' y ''El gitano''.</desc>
+    <desc lang="es">Serie basada en el bandolerismo andaluz del siglo XIX, cuya acción se desarrolla en la Serranía de Ronda. El protagonista es el bandolero Curro Jiménez, personaje imaginario que da vida al prototipo, ya legendario, del bandolero andaluz, noble, valeroso y aventurero. Junto a él, está su inseparable banda, compuesta principalmente por ''El estudiante'', ''El algarrobo'' y ''El gitano''.(n)</desc>
     <credits>
       <actor>José Sancho</actor>
       <actor>Francisco Algora</actor>
@@ -2843,10 +2843,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230921235200 +0200" stop="20230922004800 +0200" channel="[02] LA 2">
+  <programme start="20230921235200 +0200" stop="20230922004800 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Curro Jiménez</title>
     <title lang="en">TEMPORADA 3</title>
-    <desc lang="es">Serie basada en el bandolerismo andaluz del siglo XIX, cuya acción se desarrolla en la Serranía de Ronda. El protagonista es el bandolero Curro Jiménez, personaje imaginario que da vida al prototipo, ya legendario, del bandolero andaluz, noble, valeroso y aventurero. Junto a él, está su inseparable banda, compuesta principalmente por ''El estudiante'', ''El algarrobo'' y ''El gitano''.</desc>
+    <desc lang="es">Serie basada en el bandolerismo andaluz del siglo XIX, cuya acción se desarrolla en la Serranía de Ronda. El protagonista es el bandolero Curro Jiménez, personaje imaginario que da vida al prototipo, ya legendario, del bandolero andaluz, noble, valeroso y aventurero. Junto a él, está su inseparable banda, compuesta principalmente por ''El estudiante'', ''El algarrobo'' y ''El gitano''.(n)</desc>
     <credits>
       <actor>José Sancho</actor>
       <actor>Francisco Algora</actor>
@@ -2867,10 +2867,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922004800 +0200" stop="20230922014500 +0200" channel="[02] LA 2">
+  <programme start="20230922004800 +0200" stop="20230922014500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Curro Jiménez</title>
     <title lang="en">TEMPORADA 3</title>
-    <desc lang="es">Serie basada en el bandolerismo andaluz del siglo XIX, cuya acción se desarrolla en la Serranía de Ronda. El protagonista es el bandolero Curro Jiménez, personaje imaginario que da vida al prototipo, ya legendario, del bandolero andaluz, noble, valeroso y aventurero. Junto a él, está su inseparable banda, compuesta principalmente por ''El estudiante'', ''El algarrobo'' y ''El gitano''.</desc>
+    <desc lang="es">Serie basada en el bandolerismo andaluz del siglo XIX, cuya acción se desarrolla en la Serranía de Ronda. El protagonista es el bandolero Curro Jiménez, personaje imaginario que da vida al prototipo, ya legendario, del bandolero andaluz, noble, valeroso y aventurero. Junto a él, está su inseparable banda, compuesta principalmente por ''El estudiante'', ''El algarrobo'' y ''El gitano''.(n)</desc>
     <credits>
       <actor>José Sancho</actor>
       <actor>Francisco Algora</actor>
@@ -2891,10 +2891,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922014500 +0200" stop="20230922031000 +0200" channel="[02] LA 2">
+  <programme start="20230922014500 +0200" stop="20230922031000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Festivales de verano</title>
     <title lang="en">TEMPORADA 2023</title>
-    <desc lang="es">Un recorrido por los certámenes musicales españoles más destacados de este verano, como el FIB o el San Miguel Primavera Sound, así como las más destacadas citas de blues y jazz como el Continental Latin Jazz o el Festival Blues de Cazorla.</desc>
+    <desc lang="es">Un recorrido por los certámenes musicales españoles más destacados de este verano, como el FIB o el San Miguel Primavera Sound, así como las más destacadas citas de blues y jazz como el Continental Latin Jazz o el Festival Blues de Cazorla.(n)</desc>
     <date>2023</date>
     <category lang="es">Música</category>
     <category lang="es">Concierto</category>
@@ -2905,10 +2905,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230922031000 +0200" stop="20230922040500 +0200" channel="[02] LA 2">
+  <programme start="20230922031000 +0200" stop="20230922040500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Planeta mediterráneo</title>
     <title lang="en">Planète Méditerranée</title>
-    <desc lang="es">Uno de los objetivos de la misión Gombessa V es obtener una primera evaluación de la biodiversidad y el estado del agua de la zona de penumbra (profundidad de unos 100 metros).</desc>
+    <desc lang="es">Uno de los objetivos de la misión Gombessa V es obtener una primera evaluación de la biodiversidad y el estado del agua de la zona de penumbra (profundidad de unos 100 metros).(n)</desc>
     <credits>
       <director>Gil Kebaili</director>
       <writer>Gil Kebaili</writer>
@@ -2928,10 +2928,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922040500 +0200" stop="20230922042700 +0200" channel="[02] LA 2">
+  <programme start="20230922040500 +0200" stop="20230922042700 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Nunca es demasiado pequeño</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.</desc>
+    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.(n)</desc>
     <credits>
       <director>Mason Mirabile</director>
       <writer>Mason Mirabile</writer>
@@ -2947,10 +2947,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230922042700 +0200" stop="20230922045000 +0200" channel="[02] LA 2">
+  <programme start="20230922042700 +0200" stop="20230922045000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Nunca es demasiado pequeño</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.</desc>
+    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.(n)</desc>
     <credits>
       <director>Mason Mirabile</director>
       <writer>Mason Mirabile</writer>
@@ -2966,10 +2966,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230922045000 +0200" stop="20230922054000 +0200" channel="[02] LA 2">
+  <programme start="20230922045000 +0200" stop="20230922054000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Descubrir</title>
     <title lang="en">TEMPORADA 2</title>
-    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.</desc>
+    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.(n)</desc>
     <credits>
       <director>Jesús Del Caso</director>
     </credits>
@@ -2988,10 +2988,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922054000 +0200" stop="20230922063000 +0200" channel="[02] LA 2">
+  <programme start="20230922054000 +0200" stop="20230922063000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Animal Einsteins</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">La naturaleza es un mundo difícil y está cambiando más rápido que nunca. Para sobrevivir, los animales han evolucionado y se han adaptado de forma extraordinariamente inteligente, adquiriendo una sorprendente variedad de talentos y habilidades.</desc>
+    <desc lang="es">La naturaleza es un mundo difícil y está cambiando más rápido que nunca. Para sobrevivir, los animales han evolucionado y se han adaptado de forma extraordinariamente inteligente, adquiriendo una sorprendente variedad de talentos y habilidades.(n)</desc>
     <credits>
       <director>Andrew Liebman</director>
       <writer>Andrew Liebman</writer>
@@ -3010,10 +3010,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922063000 +0200" stop="20230922065500 +0200" channel="[02] LA 2">
+  <programme start="20230922063000 +0200" stop="20230922065500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Visítame en un día</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">Diana Dzhalalova propone visitar los lugares más importantes de una ciudad en un solo día.</desc>
+    <desc lang="es">Diana Dzhalalova propone visitar los lugares más importantes de una ciudad en un solo día.(n)</desc>
     <credits>
       <director>Alexey Motorin</director>
     </credits>
@@ -3031,10 +3031,10 @@
       <value>2.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922070000 +0200" stop="20230922072500 +0200" channel="[02] LA 2">
+  <programme start="20230922070000 +0200" stop="20230922072500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Inglés Online</title>
     <title lang="en">TEMPORADA 22/23</title>
-    <desc lang="es">Curso de inglés de Televisión Española para hisponoparlantes.</desc>
+    <desc lang="es">Curso de inglés de Televisión Española para hisponoparlantes.(n)</desc>
     <date>2022</date>
     <category lang="es">Cultural/Educativo</category>
     <category lang="es">Programa</category>
@@ -3048,10 +3048,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922072500 +0200" stop="20230922082000 +0200" channel="[02] LA 2">
+  <programme start="20230922072500 +0200" stop="20230922082000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Descubrir</title>
     <title lang="en">TEMPORADA 2</title>
-    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.</desc>
+    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.(n)</desc>
     <credits>
       <director>Jesús Del Caso</director>
     </credits>
@@ -3070,10 +3070,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922082000 +0200" stop="20230922091500 +0200" channel="[02] LA 2">
+  <programme start="20230922082000 +0200" stop="20230922091500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Casos abiertos de la historia</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">Serie documental que examina los principales casos de asesinato de la historia y los vuelve a contar a modo de thriller. Cientos, incluso miles de años después, estos casos sin resolver se están reabriendo con la ayuda de la ciencia forense moderna.</desc>
+    <desc lang="es">Serie documental que examina los principales casos de asesinato de la historia y los vuelve a contar a modo de thriller. Cientos, incluso miles de años después, estos casos sin resolver se están reabriendo con la ayuda de la ciencia forense moderna.(n)</desc>
     <date>2021</date>
     <category lang="es">Documentales</category>
     <category lang="es">Historia</category>
@@ -3088,10 +3088,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922091500 +0200" stop="20230922101000 +0200" channel="[02] LA 2">
+  <programme start="20230922091500 +0200" stop="20230922101000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Canas de viajar</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">Programa de viajes conducido por Federico Sánchez.</desc>
+    <desc lang="es">Programa de viajes conducido por Federico Sánchez.(n)</desc>
     <date>2023</date>
     <category lang="es">Documentales</category>
     <category lang="es">Viajes</category>
@@ -3107,10 +3107,10 @@
       <value>8.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922101000 +0200" stop="20230922104500 +0200" channel="[02] LA 2">
+  <programme start="20230922101000 +0200" stop="20230922104500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Turismo rural en el mundo</title>
     <title lang="en">TEMPORADA 2</title>
-    <desc lang="es">Espacio que introduce a los espectadores en las numerosas casas dedicadas al turismo rural que existen en el mundo. El programa propone, además del lugar de alojamiento, rutas y actividades de interés que se pueden realizar en las proximidades.</desc>
+    <desc lang="es">Espacio que introduce a los espectadores en las numerosas casas dedicadas al turismo rural que existen en el mundo. El programa propone, además del lugar de alojamiento, rutas y actividades de interés que se pueden realizar en las proximidades.(n)</desc>
     <date>2018</date>
     <category lang="es">Documentales</category>
     <category lang="es">Viajes</category>
@@ -3126,10 +3126,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922104500 +0200" stop="20230922114500 +0200" channel="[02] LA 2">
+  <programme start="20230922104500 +0200" stop="20230922114500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Las rutas D'Ambrosio</title>
     <title lang="en">TEMPORADA 5</title>
-    <desc lang="es">El chef Gonzalo D'Ambrosio adentra al espectador en el mundo de la gastronomía a través de los productos autóctonos de las comarcas que visita.</desc>
+    <desc lang="es">El chef Gonzalo D'Ambrosio adentra al espectador en el mundo de la gastronomía a través de los productos autóctonos de las comarcas que visita.(n)</desc>
     <credits>
       <director>Nahúm Varas</director>
     </credits>
@@ -3144,9 +3144,9 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230922114500 +0200" stop="20230922133000 +0200" channel="[02] LA 2">
+  <programme start="20230922114500 +0200" stop="20230922133000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.</desc>
+    <desc lang="es">Emisión de una película.(n)</desc>
     <category lang="es">Cine</category>
     <category lang="es">Otros</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2P1673189" />
@@ -3158,9 +3158,9 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922133000 +0200" stop="20230922160000 +0200" channel="[02] LA 2">
+  <programme start="20230922133000 +0200" stop="20230922160000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Programa por determinar</title>
-    <desc lang="es">Programa por determinar.</desc>
+    <desc lang="es">Programa por determinar.(n)</desc>
     <date>2023</date>
     <category lang="es">Entretenimiento</category>
     <category lang="es">Otros</category>
@@ -3174,10 +3174,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922160000 +0200" stop="20230922164500 +0200" channel="[02] LA 2">
+  <programme start="20230922160000 +0200" stop="20230922164500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Saber y ganar</title>
     <title lang="en">TEMPORADA 2023</title>
-    <desc lang="es">El concurso, presentado por Jordi Hurtado, es el programa diario con más años de emisión en la historia de la televisión en España. Durante el programa, tres concursantes se enfrentan a diferentes pruebas de conocimientos culturales y de agilidad mental.</desc>
+    <desc lang="es">El concurso, presentado por Jordi Hurtado, es el programa diario con más años de emisión en la historia de la televisión en España. Durante el programa, tres concursantes se enfrentan a diferentes pruebas de conocimientos culturales y de agilidad mental.(n)</desc>
     <credits>
       <director>Sergi Schaaff</director>
     </credits>
@@ -3194,10 +3194,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922164500 +0200" stop="20230922173200 +0200" channel="[02] LA 2">
+  <programme start="20230922164500 +0200" stop="20230922173200 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Animal Einsteins</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">La naturaleza es un mundo difícil y está cambiando más rápido que nunca. Para sobrevivir, los animales han evolucionado y se han adaptado de forma extraordinariamente inteligente, adquiriendo una sorprendente variedad de talentos y habilidades.</desc>
+    <desc lang="es">La naturaleza es un mundo difícil y está cambiando más rápido que nunca. Para sobrevivir, los animales han evolucionado y se han adaptado de forma extraordinariamente inteligente, adquiriendo una sorprendente variedad de talentos y habilidades.(n)</desc>
     <credits>
       <director>Andrew Liebman</director>
       <writer>Andrew Liebman</writer>
@@ -3216,10 +3216,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922173200 +0200" stop="20230922182000 +0200" channel="[02] LA 2">
+  <programme start="20230922173200 +0200" stop="20230922182000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Ríos de Croacia</title>
     <title lang="en">Rivers of Croatia</title>
-    <desc lang="es">Ningún otro país europeo tiene ríos tan diversos y tan bien conservados como Croacia. Ríos turbios y lentos, ríos montañosos cortos y rápidos, ríos con cascadas y partes casi pantanosas, ríos tranquilos de paisaje kárstico o ríos adriáticos en profundos cañones.</desc>
+    <desc lang="es">Ningún otro país europeo tiene ríos tan diversos y tan bien conservados como Croacia. Ríos turbios y lentos, ríos montañosos cortos y rápidos, ríos con cascadas y partes casi pantanosas, ríos tranquilos de paisaje kárstico o ríos adriáticos en profundos cañones.(n)</desc>
     <credits>
       <director>Goran Safarek</director>
       <writer>Diana Bartolic</writer>
@@ -3238,10 +3238,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922182000 +0200" stop="20230922184500 +0200" channel="[02] LA 2">
+  <programme start="20230922182000 +0200" stop="20230922184500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">El escarabajo verde</title>
     <title lang="en">TEMPORADA 22/23</title>
-    <desc lang="es">Programa divulgativo sobre ecología y medio ambiente. Sus contenidos quieren llegar a un público amplio y no especializado, para que todos descubran que la ecología es interesante porque es necesaria, útil y amena.</desc>
+    <desc lang="es">Programa divulgativo sobre ecología y medio ambiente. Sus contenidos quieren llegar a un público amplio y no especializado, para que todos descubran que la ecología es interesante porque es necesaria, útil y amena.(n)</desc>
     <credits>
       <director>Eduardo Laplaza</director>
     </credits>
@@ -3255,10 +3255,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230922184500 +0200" stop="20230922193500 +0200" channel="[02] LA 2">
+  <programme start="20230922184500 +0200" stop="20230922193500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Descubrir</title>
     <title lang="en">TEMPORADA 2</title>
-    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.</desc>
+    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.(n)</desc>
     <credits>
       <director>Jesús Del Caso</director>
     </credits>
@@ -3277,10 +3277,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230922193500 +0200" stop="20230922203500 +0200" channel="[02] LA 2">
+  <programme start="20230922193500 +0200" stop="20230922203500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Las rutas D'Ambrosio</title>
     <title lang="en">TEMPORADA 5</title>
-    <desc lang="es">El chef Gonzalo D'Ambrosio adentra al espectador en el mundo de la gastronomía a través de los productos autóctonos de las comarcas que visita.</desc>
+    <desc lang="es">El chef Gonzalo D'Ambrosio adentra al espectador en el mundo de la gastronomía a través de los productos autóctonos de las comarcas que visita.(n)</desc>
     <credits>
       <director>Nahúm Varas</director>
     </credits>
@@ -3295,10 +3295,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230922203500 +0200" stop="20230922213000 +0200" channel="[02] LA 2">
+  <programme start="20230922203500 +0200" stop="20230922213000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Días de cine</title>
     <title lang="en">TEMPORADA 23/24</title>
-    <desc lang="es">Espacio que recoge la actualidad cinematográfica española e internacional desgranando los estrenos de la cartelera. El programa se hace eco, también, de lo que acontece en los festivales y repasa la trayectoria de actores y directores clave del séptimo arte.</desc>
+    <desc lang="es">Espacio que recoge la actualidad cinematográfica española e internacional desgranando los estrenos de la cartelera. El programa se hace eco, también, de lo que acontece en los festivales y repasa la trayectoria de actores y directores clave del séptimo arte.(n)</desc>
     <credits>
       <director>Gerardo Sánchez</director>
     </credits>
@@ -3312,10 +3312,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-12.svg" />
     </rating>
   </programme>
-  <programme start="20230922213000 +0200" stop="20230922220500 +0200" channel="[02] LA 2">
+  <programme start="20230922213000 +0200" stop="20230922220500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Plano general</title>
     <title lang="en">TEMPORADA 3</title>
-    <desc lang="es">El periodista Jenaro Castro muestra el lado humano de personajes relevantes de todos los ámbitos. Un viaje introspectivo con voluntad de homenajear la trayectoria de los distintos invitados que, además, eligen su música preferida y el lugar de la entrevista.</desc>
+    <desc lang="es">El periodista Jenaro Castro muestra el lado humano de personajes relevantes de todos los ámbitos. Un viaje introspectivo con voluntad de homenajear la trayectoria de los distintos invitados que, además, eligen su música preferida y el lugar de la entrevista.(n)</desc>
     <credits>
       <director>Jenaro Castro Muiña</director>
     </credits>
@@ -3330,9 +3330,9 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230922220500 +0200" stop="20230923000600 +0200" channel="[02] LA 2">
+  <programme start="20230922220500 +0200" stop="20230923000600 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.</desc>
+    <desc lang="es">Emisión de una película.(n)</desc>
     <category lang="es">Cine</category>
     <category lang="es">Otros</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2P1673189" />
@@ -3344,9 +3344,9 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230923000600 +0200" stop="20230923013000 +0200" channel="[02] LA 2">
+  <programme start="20230923000600 +0200" stop="20230923013000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.</desc>
+    <desc lang="es">Emisión de una película.(n)</desc>
     <category lang="es">Cine</category>
     <category lang="es">Otros</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2P1673189" />
@@ -3358,9 +3358,9 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230923013000 +0200" stop="20230923025500 +0200" channel="[02] LA 2">
+  <programme start="20230923013000 +0200" stop="20230923025500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.</desc>
+    <desc lang="es">Emisión de una película.(n)</desc>
     <category lang="es">Cine</category>
     <category lang="es">Otros</category>
     <icon src="https://www.movistarplus.es/recorte/n/caratula4/MLA2P1673189" />
@@ -3372,10 +3372,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230923025500 +0200" stop="20230923031700 +0200" channel="[02] LA 2">
+  <programme start="20230923025500 +0200" stop="20230923031700 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Nunca es demasiado pequeño</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.</desc>
+    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.(n)</desc>
     <credits>
       <director>Mason Mirabile</director>
       <writer>Mason Mirabile</writer>
@@ -3391,10 +3391,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230923031700 +0200" stop="20230923034000 +0200" channel="[02] LA 2">
+  <programme start="20230923031700 +0200" stop="20230923034000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Nunca es demasiado pequeño</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.</desc>
+    <desc lang="es">El crecimiento de la población y la escasez de terreno están exprimiendo nuestras ciudades, y en todo el mundo la gente está recurriendo a hogares más pequeños y asequibles.(n)</desc>
     <credits>
       <director>Mason Mirabile</director>
       <writer>Mason Mirabile</writer>
@@ -3410,10 +3410,10 @@
       <icon src="https://www.movistarplus.es/assets/images/movistar-plus/calf-tp.svg" />
     </rating>
   </programme>
-  <programme start="20230923034000 +0200" stop="20230923043000 +0200" channel="[02] LA 2">
+  <programme start="20230923034000 +0200" stop="20230923043000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Descubrir</title>
     <title lang="en">TEMPORADA 2</title>
-    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.</desc>
+    <desc lang="es">Serie documental de viajes de aventura, formada por 14 episodios de media hora rodados en países de Asia, África y América. Desde una perspectiva sostenible y responsable, el espectador es transportado a famosos destinos.(n)</desc>
     <credits>
       <director>Jesús Del Caso</director>
     </credits>
@@ -3432,10 +3432,10 @@
       <value>10.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230923043000 +0200" stop="20230923052000 +0200" channel="[02] LA 2">
+  <programme start="20230923043000 +0200" stop="20230923052000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Animal Einsteins</title>
     <title lang="en">TEMPORADA 1</title>
-    <desc lang="es">La naturaleza es un mundo difícil y está cambiando más rápido que nunca. Para sobrevivir, los animales han evolucionado y se han adaptado de forma extraordinariamente inteligente, adquiriendo una sorprendente variedad de talentos y habilidades.</desc>
+    <desc lang="es">La naturaleza es un mundo difícil y está cambiando más rápido que nunca. Para sobrevivir, los animales han evolucionado y se han adaptado de forma extraordinariamente inteligente, adquiriendo una sorprendente variedad de talentos y habilidades.(n)</desc>
     <credits>
       <director>Andrew Liebman</director>
       <writer>Andrew Liebman</writer>
@@ -3454,10 +3454,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230923052000 +0200" stop="20230923055000 +0200" channel="[02] LA 2">
+  <programme start="20230923052000 +0200" stop="20230923055000 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Diario de un nómada</title>
     <title lang="en">TEMPORADA 6</title>
-    <desc lang="es">En esta sexta temporada, Miquel Silvestre recorrerá los restos del imperio de la revolución soviética y seguirá las huellas de los exploradores españoles olvidados en Europa y Asia Central.</desc>
+    <desc lang="es">En esta sexta temporada, Miquel Silvestre recorrerá los restos del imperio de la revolución soviética y seguirá las huellas de los exploradores españoles olvidados en Europa y Asia Central.(n)</desc>
     <date>2017</date>
     <category lang="es">Documentales</category>
     <category lang="es">Viajes</category>
@@ -3473,10 +3473,10 @@
       <value>6.0/10</value>
     </star-rating>
   </programme>
-  <programme start="20230923055000 +0200" stop="20230923061500 +0200" channel="[02] LA 2">
+  <programme start="20230923055000 +0200" stop="20230923061500 +0200" channel="ES: LA 2 FHD">
     <title lang="es">Diario de un nómada</title>
     <title lang="en">TEMPORADA 6</title>
-    <desc lang="es">En esta sexta temporada, Miquel Silvestre recorrerá los restos del imperio de la revolución soviética y seguirá las huellas de los exploradores españoles olvidados en Europa y Asia Central.</desc>
+    <desc lang="es">En esta sexta temporada, Miquel Silvestre recorrerá los restos del imperio de la revolución soviética y seguirá las huellas de los exploradores españoles olvidados en Europa y Asia Central.(n)</desc>
     <date>2017</date>
     <category lang="es">Documentales</category>
     <category lang="es">Viajes</category>
